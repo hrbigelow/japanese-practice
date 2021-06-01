@@ -1,0 +1,1234 @@
+革命 {'reading': 'かくめい', 'meanings': ['revolution', '58th year of the sexagenary cycle (in Onmyōdō)', 'Revolution']}
+生み出し {'reading': 'うみだす', 'meanings': ['to create', 'to invent', 'to give birth to']}
+基地 {'reading': 'きち', 'meanings': ['base (military, expedition, etc.)']}
+文 {'reading': 'ぶん', 'meanings': ['sentence', 'composition', 'the literary arts (as opposed to the military arts)', 'statement']}
+強固 {'reading': 'きょうこ', 'meanings': ['firm']}
+硝酸 {'reading': 'しょうさん', 'meanings': ['nitric acid', 'Nitric acid']}
+進出 {'reading': 'しんしゅつ', 'meanings': ['advance (into a new market or stage of progress)']}
+霊長 {'reading': 'れいちょう', 'meanings': ['crown (of creation)']}
+無 {'reading': 'む', 'meanings': ['nothing', 'un-']}
+続け {'reading': 'つづける', 'meanings': ['to continue']}
+耐え {'reading': 'たえる', 'meanings': ['to bear', 'to support', 'to be fit for']}
+躍進 {'reading': 'やくしん', 'meanings': ['making rapid progress']}
+順調 {'reading': 'じゅんちょう', 'meanings': ['favourable']}
+ウエット {'reading': 'ウェット', 'meanings': ['wet', 'soft-hearted']}
+こう {'reading': 'こう', 'meanings': ['to beg']}
+猛烈 {'reading': 'もうれつ', 'meanings': ['fierce']}
+外殻 {'reading': 'がいかく', 'meanings': ['shell']}
+生み出す {'reading': 'うみだす', 'meanings': ['to create', 'to invent', 'to give birth to']}
+人類 {'reading': 'じんるい', 'meanings': ['mankind']}
+伴い {'reading': 'ともない', 'meanings': ['companion']}
+能力 {'reading': 'のうりょく', 'meanings': ['ability']}
+限界 {'reading': 'げんかい', 'meanings': ['limit']}
+急激 {'reading': 'きゅうげき', 'meanings': ['sudden']}
+強力 {'reading': 'きょうりょく', 'meanings': ['powerful']}
+持っ {'reading': 'もっていく', 'meanings': ['to take']}
+海 {'reading': 'うみ', 'meanings': ['sea', 'Sea']}
+重 {'reading': 'じゅう', 'meanings': ['jūbako', 'heavy', 'serious', '-fold']}
+訪れる {'reading': 'おとずれる', 'meanings': ['to visit', 'to arrive (season, time, situation, etc.)', 'to make a sound', 'to send a letter']}
+ため {'reading': 'ため', 'meanings': ['good', 'sake', 'consequence', 'affecting']}
+持ち込ま {'reading': 'もちこむ', 'meanings': ['to take something into ...', 'to lodge (a complaint)', 'to bring to (a state: tied game, vote, trial, etc.)']}
+線 {'reading': 'せん', 'meanings': ['line', 'line (e.g. telephone line)', 'ray (e.g. X-ray)', 'line (e.g. of a railroad)', 'outline', 'level', 'division', 'line (of action)', 'impression one leaves']}
+通過 {'reading': 'つうか', 'meanings': ['passing through (a tunnel, station, town, etc.)', 'passage (of a bill, e.g. through parliament)', 'passing (an examination, inspection, etc.)']}
+上昇 {'reading': 'じょうしょう', 'meanings': ['rising']}
+いったん {'reading': 'いったん', 'meanings': ['once', 'for a short time', 'one morning', 'Ittan']}
+スケール {'reading': 'スケール', 'meanings': ['scale', 'Scale']}
+棚 {'reading': 'たな', 'meanings': ['shelf', 'trellis']}
+外角 {'reading': 'がいかく', 'meanings': ['external angle', 'outside corner']}
+天 {'reading': 'てん', 'meanings': ['sky', 'heaven', 'God', 'svarga (heaven-like realm visited as a stage of death and rebirth)', 'deva (divine being of Buddhism)', 'top (of a book)', 'sole (of a Japanese sandal)', 'beginning', 'tempura', 'India', 'Tian']}
+及ん {'reading': 'きゅうだいてん', 'meanings': ['passing mark']}
+欠泉 {'reading': 'あくび', 'meanings': ['yawn', 'kanji "yawning" radical (radical 76)']}
+未来 {'reading': 'みらい', 'meanings': ['the future (usually distant)', 'future tense', 'the world to come', 'Future']}
+駆動 {'reading': 'くどう', 'meanings': ['driving force']}
+たい {'reading': 'たい', 'meanings': ['sea bream (Sparidae)', 'tai (species of reddish-brown Pacific sea bream, Pagrus major)', 'Sparidae']}
+厳しい {'reading': 'きびしい', 'meanings': ['severe', 'hard (to do)', 'intense (e.g. cold)']}
+触媒 {'reading': 'しょくばい', 'meanings': ['catalyst', 'Catalysis']}
+公転 {'reading': 'こうてん', 'meanings': ['revolution (of heavens)']}
+洋 {'reading': 'なだ', 'meanings': ['open sea']}
+変え {'reading': 'かえ', 'meanings': ['changing']}
+高知 {'reading': 'こうち', 'meanings': ['Kōchi (city, prefecture)']}
+所 {'reading': 'ところ', 'meanings': ['place', 'address', 'district', "one's house", 'point', 'passage (in text)', 'space', 'thing', 'whereupon', 'about to', 'was just doing']}
+噴火 {'reading': 'ふんか', 'meanings': ['eruption', 'Vulcanian eruption']}
+帯 {'reading': 'おび', 'meanings': ['obi', 'paper wrapper on books, CDs, etc.', 'band', 'cingulum', 'radio or television program broadcast in the same time slot on all or most days', 'Obi (sash)']}
+プルーム {'reading': 'プルーム', 'meanings': ['plume', 'Plume']}
+活性 {'reading': 'かっせい', 'meanings': ['active']}
+散逸 {'reading': 'さんいつ', 'meanings': ['being scattered and ultimately lost', 'dissipation', 'Dissipation']}
+極寒 {'reading': 'ごっかん', 'meanings': ['extreme cold']}
+産業 {'reading': 'さんぎょう', 'meanings': ['industry', 'livelihood', 'Sangyou', 'Industry']}
+広告 {'reading': 'こうこく', 'meanings': ['advertisement', 'announcement', 'Advertising']}
+技術 {'reading': 'ぎじゅつ', 'meanings': ['technology', 'technique', 'art']}
+分身 {'reading': 'ぶんしん', 'meanings': ['other self', 'incarnations of Buddha']}
+火山 {'reading': 'かざん', 'meanings': ['volcano', 'Volcano']}
+見える {'reading': 'みえる', 'meanings': ['to be seen', 'to look', 'to come']}
+下がっ {'reading': 'さがる', 'meanings': ['to come down', 'to hang', 'to move back', 'to deteriorate', 'to get closer to the present day', 'to go south']}
+領域 {'reading': 'りょういき', 'meanings': ['area']}
+南極 {'reading': 'なんきょく', 'meanings': ['South Pole', 'the Antarctic', 'Antarctica', 'Antarctic']}
+凍結 {'reading': 'とうけつ', 'meanings': ['freezing (e.g. water)', 'freezing (prices, wages, assets, etc.)']}
+言語 {'reading': 'げんご', 'meanings': ['language', 'Language']}
+旋回 {'reading': 'せんかい', 'meanings': ['revolution', 'turning (an aircraft or ship)']}
+点 {'reading': 'てん', 'meanings': ['dot', 'mark (in an exam, etc.)', 'point (in a game)', 'point (in geometry)', 'point', '(punctuation) mark (e.g. comma, period, decimal point)', '"dot" stroke (in a Chinese character)', 'counter for points, marks, goals, etc.', 'counter for goods, items, articles of clothing, works of art, etc.']}
+勢い {'reading': 'いきおい', 'meanings': ['force', 'influence', 'impetus', 'naturally']}
+放出 {'reading': 'ほうしゅつ', 'meanings': ['release']}
+ええ {'reading': 'ええ', 'meanings': ['yes', 'um', 'huh?', 'grrr', 'good']}
+構成 {'reading': 'こうせい', 'meanings': ['composition']}
+蒸発 {'reading': 'じょうはつ', 'meanings': ['evaporation', 'disappearance (of people intentionally concealing their whereabouts)', 'Evaporation']}
+全 {'reading': 'ぜん', 'meanings': ['all', 'complete (set)']}
+高く {'reading': 'たかくつく', 'meanings': ['to be expensive']}
+生存 {'reading': 'せいぞん', 'meanings': ['existence', 'to exist']}
+裁判 {'reading': 'さいばん', 'meanings': ['trial']}
+行う {'reading': 'おこなう', 'meanings': ['to perform']}
+提供 {'reading': 'ていきょう', 'meanings': ['offer', 'sponsoring (a TV program)']}
+物々 {'reading': 'ぶつぶつこうかん', 'meanings': ['bartering', 'Barter']}
+時 {'reading': 'とき', 'meanings': ['time', 'occasion', 'chance', 'the times', 'tense', 'Autumn']}
+き {'reading': 'き', 'meanings': ['tree', 'wood', 'Tree']}
+なくなっ {'reading': 'ない', 'meanings': ['nonexistent', 'unowned', 'unique', 'not', 'not', 'to not be']}
+バクテリア {'reading': 'バクテリア', 'meanings': ['bacteria']}
+多数 {'reading': 'たすう', 'meanings': ['large number (of)', 'majority']}
+縮退 {'reading': 'しゅくたい', 'meanings': ['degeneracy', 'degradation (CPU, memory, etc.)', 'Degenerate energy levels']}
+被子 {'reading': 'ひししょくぶつ', 'meanings': ['angiosperm', 'Flowering plant']}
+頃 {'reading': 'ころ', 'meanings': ['(approximate) time', 'suitable time (or condition)', 'time of year']}
+効率 {'reading': 'こうりつ', 'meanings': ['efficiency']}
+参加 {'reading': 'さんか', 'meanings': ['participation']}
+水域 {'reading': 'すいいき', 'meanings': ['waters', 'Body of water']}
+多様 {'reading': 'たよう', 'meanings': ['diverse']}
+小学 {'reading': 'しょうがく', 'meanings': ['elementary school', 'school for children over eight years old in ancient China', 'traditional Chinese philology']}
+いっ {'reading': 'いっち', 'meanings': ['coincidence', 'conformity', 'cooperation', 'Icchi', 'Agreement (linguistics)']}
+士 {'reading': 'さむらい', 'meanings': ['warrior (esp. of military retainers of daimyos in the Edo period)', 'man in attendance (on a person of high standing)']}
+兆 {'reading': 'ちょう', 'meanings': ['10^12', 'sign']}
+大きく {'reading': 'おおきく', 'meanings': ['in a big way']}
+塩分 {'reading': 'えんぶん', 'meanings': ['salt']}
+い {'reading': 'い', 'meanings': ['stomach', 'Chinese "stomach" constellation (one of the 28 mansions)', 'Stomach']}
+誇っ {'reading': 'ほこる', 'meanings': ['to boast of']}
+いく {'reading': 'いく', 'meanings': ['to go', 'to proceed', 'to pass through', 'to walk', 'to die', 'to do (in a specific way)', 'to stream', 'to continue', 'to have an orgasm', 'to trip']}
+一部 {'reading': 'いちぶ', 'meanings': ['one part', 'one copy (e.g. of a document)']}
+子 {'reading': 'こ', 'meanings': ['child', 'young (animal)', 'young woman', 'offshoot', 'interest', 'new shares', 'player who is not a dealer (in cards, mahjong, etc.)', 'bird egg', '-er (often of young women)']}
+冠 {'reading': 'かんむり', 'meanings': ['traditional cap worn by Shinto clergy and courtiers', 'crown', 'top kanji radical', 'first verse of a haikai, etc.', 'best', 'name', 'Crown (headgear)']}
+次 {'reading': 'つぎ', 'meanings': ['next', 'stage']}
+一種 {'reading': 'いっしゅ', 'meanings': ['species']}
+酷寒 {'reading': 'こっかん', 'meanings': ['severe cold']}
+多少 {'reading': 'たしょう', 'meanings': ['a little', 'amount']}
+力 {'reading': 'ちから', 'meanings': ['force', 'capability', 'efficacy', 'effort', 'power', 'support', 'stress', 'means', 'Force']}
+沈み込ん {'reading': 'しずむ', 'meanings': ['to sink', 'to go down (e.g. sun)', 'to feel depressed']}
+携帯 {'reading': 'けいたい', 'meanings': ["carrying (on one's person or in the hand)", 'mobile phone']}
+領土 {'reading': 'りょうど', 'meanings': ['dominion']}
+始まり {'reading': 'はじまり', 'meanings': ['origin']}
+対し {'reading': 'たいして', 'meanings': ['for']}
+すべて {'reading': 'すべて', 'meanings': ['everything', 'entirely']}
+近傍 {'reading': 'きんぼう', 'meanings': ['neighborhood', 'neighborhood']}
+多く {'reading': 'おおく', 'meanings': ['many', 'majority (of)', 'mostly']}
+液体 {'reading': 'えきたい', 'meanings': ['liquid', 'Liquid']}
+アミノ {'reading': 'アミノ', 'meanings': ['amino']}
+厚 {'reading': 'あつ', 'meanings': ['thickness']}
+水準 {'reading': 'すいじゅん', 'meanings': ['level', 'water level']}
+帯びる {'reading': 'おびる', 'meanings': ['to wear (sword, decoration, etc.)', 'to be entrusted (e.g. with a mission)', 'to have a trace of']}
+膨張 {'reading': 'ぼうちょう', 'meanings': ['expansion']}
+春歌 {'reading': 'しゅんか', 'meanings': ['bawdy song']}
+昆虫 {'reading': 'こんちゅう', 'meanings': ['insect', 'Insect']}
+真核 {'reading': 'しんかくせいぶつ', 'meanings': ['eukaryote', 'Eukaryote']}
+温暖 {'reading': 'おんだん', 'meanings': ['warm']}
+山荘 {'reading': 'さんそう', 'meanings': ['mountain villa', 'Sansou']}
+栓 {'reading': 'せん', 'meanings': ['stopper', 'tap']}
+つか {'reading': 'つか', 'meanings': ['mound', 'burial mound', 'Mound']}
+迎えよう {'reading': 'むかえる', 'meanings': ['to go out to meet', 'to receive', 'to accept (e.g. as a member of a group or family)', 'to call for', "to approach (a certain time, a point in one's life, etc.)"]}
+残し {'reading': 'のこしゆ', 'meanings': ['leaving water in the bathtub (to use later for laundry)']}
+距離 {'reading': 'きょり', 'meanings': ['distance', 'Distance']}
+著書 {'reading': 'ちょしょ', 'meanings': ['(written) work']}
+我々 {'reading': 'われわれ', 'meanings': ['we']}
+あっ {'reading': 'あっ', 'meanings': ['ah', 'hey!', 'A (kana)']}
+させ {'reading': 'させつ', 'meanings': ['turning to the left']}
+重合 {'reading': 'じゅうごう', 'meanings': ['polymerization']}
+編 {'reading': 'へん', 'meanings': ['compilation (of a text)', 'volume (of a text)', 'completed literary work']}
+暗 {'reading': 'あん', 'meanings': ['darkness']}
+逆らっ
+ {'reading': 'さからう', 'meanings': ['to go against']}
+浸食 {'reading': 'しんしょく', 'meanings': ['erosion']}
+いき {'reading': 'いき', 'meanings': ['breath', 'tone']}
+はぎ取ら {'reading': 'はぎとる', 'meanings': ['to tear off']}
+ない {'reading': 'ない', 'meanings': ['nonexistent', 'unowned', 'unique', 'not', 'not', 'to not be']}
+省 {'reading': 'しょう', 'meanings': ['ministry', 'province (of China)', 'saving', 'Ministry (government department)']}
+シアノ {'reading': 'シアノコバラミン', 'meanings': ['cyanocobalamin', 'Vitamin B12']}
+食料 {'reading': 'しょくりょう', 'meanings': ['food']}
+届か {'reading': 'とどかぬねがい', 'meanings': ['unfulfilled wish']}
+デー {'reading': 'デー', 'meanings': ['day (as in holiday)', 'daytime']}
+整然 {'reading': 'せいぜん', 'meanings': ['orderly']}
+計画 {'reading': 'けいかく', 'meanings': ['plan', 'Plan']}
+成功 {'reading': 'せいこう', 'meanings': ['success']}
+運核 {'reading': 'うん', 'meanings': ['fortune', 'Luck']}
+わかる {'reading': 'わかる', 'meanings': ['to understand', 'to become clear', 'I know!']}
+気候 {'reading': 'きこう', 'meanings': ['climate', 'Climate']}
+銀河 {'reading': 'ぎんが', 'meanings': ['Milky Way', 'galaxy', 'Galaxy']}
+会得 {'reading': 'えとく', 'meanings': ['understanding']}
+含水 {'reading': 'がんすい', 'meanings': ['hydrated']}
+人工 {'reading': 'じんこう', 'meanings': ['artificial', 'Artificial']}
+時点 {'reading': 'じてん', 'meanings': ['point in time']}
+戻っ {'reading': 'もどってくる', 'meanings': ['to come back']}
+ウサギ {'reading': 'うさぎ', 'meanings': ['rabbit', 'Rabbit']}
+繋がっ {'reading': 'つながる', 'meanings': ['to be tied together', 'to lead to', 'to be related (by blood)']}
+まるで {'reading': 'まるで', 'meanings': ['quite', 'as if']}
+海洋 {'reading': 'かいよう', 'meanings': ['ocean', 'Kaiyou']}
+消滅 {'reading': 'しょうめつ', 'meanings': ['extinction', 'annihilation']}
+落下 {'reading': 'らっか', 'meanings': ['fall']}
+急増 {'reading': 'きゅうぞう', 'meanings': ['rapid increase']}
+戦略 {'reading': 'せんりゃく', 'meanings': ['strategy', 'Strategy']}
+御許 {'reading': 'みもと', 'meanings': ['(his) side']}
+正体 {'reading': 'しょうたい', 'meanings': ['true character', 'consciousness']}
+り {'reading': 'り', 'meanings': ['advantage']}
+誕生 {'reading': 'たんじょう', 'meanings': ['birth', 'Birth']}
+課題 {'reading': 'かだい', 'meanings': ['subject', 'homework', 'task']}
+インド {'reading': 'インド', 'meanings': ['India']}
+総局 {'reading': 'そうきょく', 'meanings': ['head office']}
+続ける {'reading': 'つづける', 'meanings': ['to continue']}
+生かし {'reading': 'いかす', 'meanings': ['to make (the best) use of', 'to let live', 'to revive', 'to restore (a deleted passage; in proofreading)']}
+付近 {'reading': 'ふきん', 'meanings': ['neighborhood', 'approaching']}
+供給 {'reading': 'きょうきゅう', 'meanings': ['supply']}
+意識 {'reading': 'いしき', 'meanings': ['consciousness', 'becoming aware (of)', 'mano-vijnana (mental consciousness, cognizer of sensory information)', 'Consciousness']}
+簡易 {'reading': 'かんい', 'meanings': ['simplicity']}
+あつまり {'reading': 'あつまり', 'meanings': ['gathering']}
+剤 {'reading': 'ざい', 'meanings': ['medicine']}
+風呂 {'reading': 'ふろ', 'meanings': ['bath', 'bathhouse', 'room for drying lacquerware', 'base (wooden joint connecting the blade of a hoe, spade, etc., to the handle)', 'Bathtub']}
+半数 {'reading': 'はんすう', 'meanings': ['half the number', 'haploid']}
+なくなり {'reading': 'なくなる', 'meanings': ['to be lost (e.g. luggage)', 'to be used up', 'to disappear (e.g. pain)']}
+与え {'reading': 'あたえ', 'meanings': ['gift']}
+意味 {'reading': 'いみ', 'meanings': ['meaning', 'Meaning (linguistics)']}
+形作る {'reading': 'かたちづくる', 'meanings': ['to form']}
+ドライ {'reading': 'ドライ', 'meanings': ['dry', 'dry (tone, humour, etc.)', 'dry (of alcohol)', 'Dry']}
+ざる {'reading': 'ざる', 'meanings': ['not', 'Zaru']}
+とても {'reading': 'とても', 'meanings': ['very', '(not) at all']}
+新しい {'reading': 'あたらしい', 'meanings': ['new']}
+時代 {'reading': 'じだい', 'meanings': ['period', 'the times', 'oldness', 'antique']}
+紛失 {'reading': 'ふんしつ', 'meanings': ['loss']}
+国民 {'reading': 'こくみん', 'meanings': ['people (of a country)', 'Nation']}
+赤鉄 {'reading': 'せきてっこう', 'meanings': ['hematite', 'Hematite']}
+あり
+まだ {'reading': 'あり', 'meanings': ['ant']}
+し {'reading': 'し', 'meanings': ['poem', 'Poetry']}
+新 {'reading': 'しん', 'meanings': ['new', 'newness', 'Gregorian calendar', 'Xin dynasty (China, 9-23 CE)', 'Xin Dynasty']}
+経 {'reading': 'たて', 'meanings': ['the vertical', 'front-to-back', 'north-to-south', 'vertical (relationship)', '(weaving) warp']}
+従え {'reading': 'したがえる', 'meanings': ['to be accompanied by', 'to conquer']}
+直径 {'reading': 'ちょっけい', 'meanings': ['diameter']}
+小 {'reading': 'しょう', 'meanings': ['smallness', 'short month (i.e. having fewer than 31 days)', 'elementary school', 'smaller (of two things, places, etc. with the same name)', 'younger (of two people with the same name)', 'unit of field area (approx. 400 sq m)']}
+ようやく {'reading': 'ようやく', 'meanings': ['finally', 'barely', 'gradually']}
+また {'reading': 'また', 'meanings': ['again', 'also', 'on the other hand', 'and', 'or', 'really', 'indirect']}
+海中 {'reading': 'かいちゅう', 'meanings': ['in the sea']}
+半島 {'reading': 'はんとう', 'meanings': ['peninsula', 'Korea', 'Peninsula']}
+シェール {'reading': 'シェール', 'meanings': ['shale', 'Cher (France)', 'Cher']}
+繰り返し {'reading': 'くりかえし', 'meanings': ['repetition', 'repeatedly']}
+超 {'reading': 'ちょう', 'meanings': ['super-', 'extremely', 'over']}
+がっ {'reading': 'がっこう', 'meanings': ['school', 'Gakkou', 'School']}
+内 {'reading': 'うち', 'meanings': ['inside', 'while (e.g. one is young)', 'among', 'in (secret, chaos, poverty, etc.)', 'within oneself', 'we', "one's home", 'my spouse', "signed on behalf of (husband's name) by his wife", 'I', 'imperial palace grounds', 'emperor']}
+移動 {'reading': 'いどう', 'meanings': ['movement', 'mobile']}
+迎え {'reading': 'むかえ', 'meanings': ['meeting']}
+流 {'reading': 'りゅう', 'meanings': ['fashion', 'school (of thought)', 'class', 'current (electrical, water, etc.)']}
+星 {'reading': 'ほし', 'meanings': ['star (usu. not including the Sun)', 'star (glyph, symbol, shape)', 'star (actor, player, etc.)', 'small dot', 'star point (in go)', 'perp', 'bullseye', "one's star (that determines one's fate)", 'point']}
+性 {'reading': 'せい', 'meanings': ['nature (of a person)', 'sex', 'gender', '-ty']}
+億 {'reading': 'おく', 'meanings': ['10^8']}
+生 {'reading': 'なま', 'meanings': ['raw', 'natural', 'unprotected (sex)', 'live (i.e. not recorded)', 'inexperienced', 'impudence', 'unpasteurized beer', 'blank (e.g. disk)', 'just a little', 'insufficient', 'cash', 'tipsiness']}
+届く {'reading': 'とどく', 'meanings': ['to reach', 'to be delivered', 'to be attentive', 'to be realized (of a desire)']}
+せ {'reading': 'せ', 'meanings': ['back', 'reverse', 'height', 'ridge (of a mountain)']}
+新た {'reading': 'あらた', 'meanings': ['new']}
+化 {'reading': 'か', 'meanings': ['action of making something']}
+鉱層 {'reading': 'こうそう', 'meanings': ['ore bed']}
+示し {'reading': 'しめし', 'meanings': ['lesson', 'revelation']}
+整え {'reading': 'ととのえ', 'meanings': ['preparation']}
+あるいは {'reading': 'あるいは', 'meanings': ['or', 'maybe', 'some ... and others ...']}
+公演 {'reading': 'こうえん', 'meanings': ['public performance', 'exhibition in a foreign country']}
+繰り返す {'reading': 'くりかえす', 'meanings': ['to repeat']}
+退席 {'reading': 'たいせき', 'meanings': ["leaving one's seat"]}
+つつ {'reading': 'つつ', 'meanings': ['while', 'even though']}
+ピーク {'reading': 'ピーク', 'meanings': ['peak', 'peek', 'Peak']}
+必要 {'reading': 'ひつよう', 'meanings': ['necessary', 'necessity']}
+低地 {'reading': 'ていち', 'meanings': ['depression', 'Lowland']}
+広げ {'reading': 'ひろげる', 'meanings': ['to spread', 'to unfold', 'to scatter about', 'to make flourish']}
+素 {'reading': 'もと', 'meanings': ['origin', 'base', 'cause', 'ingredient', "(somebody's) side", 'original cost (or capital, principal, etc.)', '(plant) root', 'first section of a waka', 'counter for blades of grass, tree trunks, etc., and for falcons (in falconry)', 'handle (chopsticks, brush, etc.)', 'Book']}
+主 {'reading': 'しゅじん', 'meanings': ['head (of a household)', "one's husband", "(one's) employer", 'host']}
+生産 {'reading': 'せいさん', 'meanings': ['production', 'Outline of industrial organization']}
+た {'reading': 'た', 'meanings': ['rice field', 'Paddy field']}
+運気 {'reading': 'うんき', 'meanings': ['fate']}
+水 {'reading': 'みず', 'meanings': ['water (esp. cool, fresh water, e.g. drinking water)', 'fluid (esp. in an animal tissue)', 'flood', 'water offered to wrestlers just prior to a bout', 'break granted to wrestlers engaged in a prolonged bout', 'Water']}
+分離 {'reading': 'ぶんり', 'meanings': ['separation']}
+堆積 {'reading': 'たいせき', 'meanings': ['accumulation', 'sedimentation', 'Sedimentation']}
+数 {'reading': 'すう', 'meanings': ['several', 'quantity', 'counting', 'number', 'grammatical number', 'destiny']}
+体 {'reading': 'からだ', 'meanings': ['body', 'torso', 'build', 'health', 'corpse']}
+内部 {'reading': 'ないぶ', 'meanings': ['interior']}
+光 {'reading': 'ひかり', 'meanings': ['light', 'illumination', 'happiness', 'influence', 'vision', 'Light']}
+つけ {'reading': 'つけ', 'meanings': ['bill', 'tab (for later payment)', 'contact move (in go)', 'sound effect produced by striking with clappers a wooden board in kabuki', 'letter', 'reason', "one's fortune"]}
+映像 {'reading': 'えいぞう', 'meanings': ['image (on a screen)', 'video', 'reflection', "image (in one's mind)", 'Footage']}
+しがみつい {'reading': 'しがみつく', 'meanings': ['to cling']}
+カンブリア {'reading': 'カンブリア', 'meanings': ['Cambria (old name for Wales)']}
+すでに {'reading': 'すでに', 'meanings': ['already']}
+作用 {'reading': 'さよう', 'meanings': ['action']}
+析出 {'reading': 'せきしゅつ', 'meanings': ['separation', 'Deposition (chemistry)']}
+黄金 {'reading': 'おうごん', 'meanings': ['gold (Au)', 'golden', 'money (esp. ōban coin)', 'Gold']}
+ディー {'reading': 'ディー', 'meanings': ['D', 'director']}
+考え {'reading': 'かんがえ', 'meanings': ['thinking', 'idea', 'intention', 'consideration', 'wish']}
+適用 {'reading': 'てきよう', 'meanings': ['applying (e.g. a technology)']}
+つ {'reading': 'つ', 'meanings': ['indicates two contrasting actions', 'indicates possessive (often found in place names and compound words)', 'Tsu (kana)']}
+小片 {'reading': 'しょうへん', 'meanings': ['small piece']}
+記述 {'reading': 'きじゅつ', 'meanings': ['description']}
+系 {'reading': 'けい', 'meanings': ['system', 'corollary', 'system (range of strata that correspond to a particular time period)', '(taxonomical) series']}
+満ち引き {'reading': 'みちひき', 'meanings': ['ebb and flow']}
+や {'reading': 'や', 'meanings': ['arrow', 'wedge', 'Ya', 'Arrow']}
+て {'reading': 'て', 'meanings': ['hand', 'forepaw', 'handle', 'hand', 'trouble', 'means', 'hand', 'kind', "one's hands", 'ability to cope', 'hand (of cards)', 'direction', 'move (in go, shogi, etc.)', 'Te', 'Hand']}
+ネズミ {'reading': 'ねずみ', 'meanings': ['mouse', 'dark gray', 'Muroidea']}
+続い {'reading': 'つづいて', 'meanings': ['subsequently', 'after ...']}
+戦 {'reading': 'いくさ', 'meanings': ['war', 'troops']}
+度 {'reading': 'ど', 'meanings': ['degree (angle, temperature, scale, etc.)', 'counter for occurrences', 'strength (of glasses)', 'alcohol content (percentage)', 'extent', 'presence of mind']}
+選択 {'reading': 'せんたく', 'meanings': ['selection']}
+蒸気 {'reading': 'じょうき', 'meanings': ['steam', 'steamboat', 'Vapor']}
+情報 {'reading': 'じょうほう', 'meanings': ['information', 'information', 'Information']}
+消え {'reading': 'きえる', 'meanings': ['to go out']}
+進歩 {'reading': 'しんぽ', 'meanings': ['progress', 'Progress (history)']}
+下回る {'reading': 'したまわる', 'meanings': ['to fall below (esp. figures: profits, unemployment rate, etc.)']}
+現在 {'reading': 'げんざい', 'meanings': ['now', 'Present']}
+宇宙 {'reading': 'うちゅう', 'meanings': ['universe', 'Universe']}
+ベール {'reading': 'ベール', 'meanings': ['veil']}
+個 {'reading': 'こ', 'meanings': ['counter for articles', 'counter for military units', 'individual']}
+音楽 {'reading': 'おんがく', 'meanings': ['music', 'Music']}
+かけ {'reading': 'かけ', 'meanings': ['credit', 'money owed on an account', 'hot noodles in broth', 'proportion (of wholesale price, as tenths of list price)', 'in the midst of', 'rest']}
+日中 {'reading': 'にっちゅう', 'meanings': ['daytime', 'Japan and China', 'Nicchuu']}
+自由 {'reading': 'じゆう', 'meanings': ['freedom', 'Liberty']}
+この {'reading': 'この', 'meanings': ['this', 'last (couple of years, etc.)', 'you (as in "you liar")']}
+有利 {'reading': 'ゆうり', 'meanings': ['advantageous', 'profitable']}
+最終 {'reading': 'さいしゅう', 'meanings': ['last']}
+応用 {'reading': 'おうよう', 'meanings': ['(practical) application', 'applied']}
+近世 {'reading': 'きんせい', 'meanings': ['recent past', 'early modern period (from the Azuchi-Momoyama period to the end of the Edo period)', 'Early modern period']}
+噴出 {'reading': 'ふんしゅつ', 'meanings': ['spewing']}
+変異 {'reading': 'へんい', 'meanings': ['variation']}
+いう {'reading': 'いう', 'meanings': ['to say', 'to name', 'to go (e.g. "the alarm went ping")']}
+共進 {'reading': 'きょうしんか', 'meanings': ['coevolution', 'Coevolution']}
+絶え間 {'reading': 'たえま', 'meanings': ['interval', 'gap (e.g. in the clouds)']}
+飛来 {'reading': 'ひらい', 'meanings': ['coming flying in (migratory birds, airborne sand, pollen, etc.)', 'coming by airplane']}
+くる {'reading': 'くる', 'meanings': ['to come (spatially or temporally)', 'to come back', 'to come to be', 'to come from', 'to come to (i.e. "when it comes to spinach ...")']}
+源 {'reading': 'みなもと', 'meanings': ['source (of a river)', 'source']}
+に {'reading': 'に', 'meanings': ['two']}
+せる {'reading': 'セル', 'meanings': ['cell', 'serge', 'cel (celluloid)', 'Cell']}
+画期 {'reading': 'かっき', 'meanings': ['transition from one epoch to another']}
+つながっ {'reading': 'つなぐ', 'meanings': ['to connect', 'to tie', 'to maintain', 'to transfer (phone call)', 'to hedge']}
+構造 {'reading': 'こうぞう', 'meanings': ['structure']}
+惑星 {'reading': 'わくせい', 'meanings': ['planet', 'Wakusei', 'Planet']}
+回避 {'reading': 'かいひ', 'meanings': ['evasion']}
+進め {'reading': 'すすめる', 'meanings': ['to advance', 'to carry forward (plans, work, etc.)', 'to raise']}
+祖先 {'reading': 'そせん', 'meanings': ['ancestor']}
+名 {'reading': 'な', 'meanings': ['name', 'title', 'fame', 'pretext']}
+全て {'reading': 'すべて', 'meanings': ['everything', 'entirely']}
+複雑 {'reading': 'ふくざつ', 'meanings': ['complex']}
+月 {'reading': 'つき', 'meanings': ['moon', 'month', 'Moon']}
+同じ {'reading': 'おなじ', 'meanings': ['same', 'anyway']}
+だ {'reading': 'だ', 'meanings': ['be', 'did', 'please']}
+なく {'reading': 'なく', 'meanings': ['to make sound (of an animal)', 'to make a meld call (e.g. pung, kong)']}
+悔恨 {'reading': 'かいこん', 'meanings': ['regret']}
+異なる {'reading': 'ことなる', 'meanings': ['to differ']}
+育ん {'reading': 'いくえいしきん', 'meanings': ['scholarship', 'educational fund']}
+ごく {'reading': 'ごく', 'meanings': ['words']}
+風 {'reading': 'かぜ', 'meanings': ['wind', 'manner', 'cold']}
+起こり {'reading': 'おこり', 'meanings': ['source']}
+遠い {'reading': 'とおい', 'meanings': ['far', 'distant (past)', 'distant (relationship or kinship)', 'far (from something else in quality, degree, etc.)', 'hard (of hearing)', 'nearsighted']}
+中米 {'reading': 'ちゅうべい', 'meanings': ['Central America', 'Chuubei']}
+前 {'reading': 'ぜん', 'meanings': ['last (i.e. immediately preceding)', 'pre- (e.g. premodern)', 'before', 'before']}
+栄華 {'reading': 'えいが', 'meanings': ['prosperity']}
+手 {'reading': 'て', 'meanings': ['hand', 'forepaw', 'handle', 'hand', 'trouble', 'means', 'hand', 'kind', "one's hands", 'ability to cope', 'hand (of cards)', 'direction', 'move (in go, shogi, etc.)', 'Te', 'Hand']}
+国家 {'reading': 'こっか', 'meanings': ['state', 'State (polity)']}
+カット {'reading': 'カット', 'meanings': ['cut', 'haircut', 'shuffle (cards)', 'scene']}
+本格 {'reading': 'ほんかく', 'meanings': ['original method or procedure', 'serious']}
+氷 {'reading': 'こおり', 'meanings': ['ice', 'shaved ice (usually served with flavored simple syrup)', 'Ice']}
+船体 {'reading': 'せんたい', 'meanings': ['hull', 'Hull (watercraft)']}
+一定 {'reading': 'いってい', 'meanings': ['fixed']}
+頂点 {'reading': 'ちょうてん', 'meanings': ['top', 'vertex', 'Vertex (geometry)']}
+母 {'reading': 'はは', 'meanings': ['mother']}
+果たす {'reading': 'はたす', 'meanings': ['to accomplish', 'to do ... completely']}
+動植物 {'reading': 'どうしょくぶつ', 'meanings': ['plants and animals']}
+社会 {'reading': 'しゃかい', 'meanings': ['society', 'social studies', 'Society']}
+矮小 {'reading': 'わいしょう', 'meanings': ['diminutive', 'narrow (e.g. thinking)']}
+時空 {'reading': 'じくう', 'meanings': ['space-time', 'Spacetime']}
+は {'reading': 'は', 'meanings': ['topic marker particle', 'indicates contrast with another option (stated or unstated)', 'adds emphasis', 'Ha (kana)']}
+リーガ {'reading': 'リーガー', 'meanings': ['leaguer (e.g. major leaguer)']}
+朝 {'reading': 'あさ', 'meanings': ['morning', 'breakfast', 'next morning', 'Morning']}
+機会 {'reading': 'きかい', 'meanings': ['chance']}
+物 {'reading': 'もの', 'meanings': ['thing', "one's things", 'things', 'quality', 'reason', 'used to emphasize emotion, judgment, etc.', 'item classified as ...', 'cause of ...', 'somehow', 'really']}
+身 {'reading': 'み', 'meanings': ['body', 'oneself', "one's place", 'main part']}
+リフト {'reading': 'リフト', 'meanings': ['lift', 'rift', 'Lift']}
+ば {'reading': 'ば', 'meanings': ['place', 'field', 'occasion', 'scene (of a play, movie, etc.)', 'session (of the stock market)', 'field', 'round (east, south, etc.)', 'field', 'field (gestalt psychology)', 'Field (physics)']}
+もの {'reading': 'もの', 'meanings': ['thing', "one's things", 'things', 'quality', 'reason', 'used to emphasize emotion, judgment, etc.', 'item classified as ...', 'cause of ...', 'somehow', 'really']}
+いきよい {'reading': 'いきおい', 'meanings': ['force', 'influence', 'impetus', 'naturally']}
+職業 {'reading': 'しょくぎょう', 'meanings': ['occupation', 'Job (role)']}
+失言 {'reading': 'しつげん', 'meanings': ['verbal gaffe']}
+具体 {'reading': 'ぐたい', 'meanings': ['concrete']}
+ヨーロッパれ {'reading': 'ヨーロッパれんごう', 'meanings': ['European Union']}
+始め {'reading': 'はじめ', 'meanings': ['beginning', 'first (in line, etc.)', 'origin', 'such as ...']}
+合成 {'reading': 'ごうせい', 'meanings': ['composition', 'composite', '(function) composition', 'Synthesis']}
+史 {'reading': 'し', 'meanings': ['history']}
+失笑 {'reading': 'しっしょう', 'meanings': ['laughing at an inappropriate time', 'scornful laughter']}
+包む {'reading': 'つつむ', 'meanings': ['to wrap up', 'to cover', 'to conceal (a feeling)', 'to give (money in an envelope; as a wedding gift, funeral offering, etc.)']}
+ふぇりう {'reading': 'ふ', 'meanings': ['negative']}
+分子 {'reading': 'ぶんし', 'meanings': ['numerator', 'molecule', 'member', 'Molecule']}
+か {'reading': 'か', 'meanings': ['lesson', 'section (in an organization)', 'counter for lessons and chapters (of a book)']}
+切れ {'reading': 'きれ', 'meanings': ['piece', 'cloth', 'sharpness', 'agility', 'counter for scraps, pieces, etc.']}
+機構 {'reading': 'きこう', 'meanings': ['mechanism']}
+交代 {'reading': 'こうたい', 'meanings': ['alternation']}
+作ら {'reading': 'さくがら', 'meanings': ['crop conditions', 'quality (of art)']}
+細胞 {'reading': 'さいぼう', 'meanings': ['cell', 'cell (in an organization, esp. a communist party)', 'Cell (biology)']}
+生き {'reading': 'いき', 'meanings': ['living', 'freshness', 'situation in which a group of stones cannot be captured because it contains two or more gaps (in go)', 'stet', 'damned']}
+世界 {'reading': 'せかい', 'meanings': ['the world', 'sphere', 'world-renowned', 'realm governed by one Buddha', 'World']}
+独自 {'reading': 'どくじ', 'meanings': ['original', 'independent']}
+質 {'reading': 'しつ', 'meanings': ['quality', 'nature', 'logical quality']}
+地球 {'reading': 'ちきゅう', 'meanings': ['Earth', 'Earth']}
+枯渇 {'reading': 'こかつ', 'meanings': ['drying up', 'running out']}
+繁殖 {'reading': 'はんしょく', 'meanings': ['breeding']}
+繁栄 {'reading': 'はんえい', 'meanings': ['prosperity']}
+宗教 {'reading': 'しゅうきょう', 'meanings': ['religion', 'religious activity', 'Religion']}
+基本 {'reading': 'きほん', 'meanings': ['basics']}
+粒子 {'reading': 'りゅうし', 'meanings': ['particle']}
+春 {'reading': 'はる', 'meanings': ['spring', 'New Year', 'prime (of life)', 'adolescence', 'sexuality', 'Spring (season)']}
+酸 {'reading': 'さん', 'meanings': ['acid', 'sourness', 'Acid']}
+から {'reading': 'から', 'meanings': ['from (e.g. time, place, numerical quantity)', 'from (originator)', 'because', 'out of (constituent, part)', 'through (e.g. window, vestibule)', 'after', 'expresses sympathy or warning']}
+競争 {'reading': 'きょうそう', 'meanings': ['competition', 'competition (between organisms or species)']}
+状態 {'reading': 'じょうたい', 'meanings': ['state']}
+呼ば {'reading': 'よばわり', 'meanings': ['denouncing']}
+出さ {'reading': 'でぐちちょうさ', 'meanings': ['exit poll', 'Exit poll']}
+基づい {'reading': 'もとづく', 'meanings': ['to be grounded on']}
+多 {'reading': 'た', 'meanings': ['multi-']}
+潮汐 {'reading': 'ちょうせき', 'meanings': ['tide', 'Tide']}
+同位 {'reading': 'どうい', 'meanings': ['the same rank']}
+突入 {'reading': 'とつにゅう', 'meanings': ['rushing into', 'plunging into (war, etc.)']}
+切り開い {'reading': 'きりひらく', 'meanings': ['to cut open', 'to clear (land)', 'to carve out (a new career, future, etc.)']}
+システム {'reading': 'システム', 'meanings': ['system', 'System']}
+進化 {'reading': 'しんか', 'meanings': ['evolution', 'Evolution']}
+復活 {'reading': 'ふっかつ', 'meanings': ['revival (e.g. musical)', 'restoration']}
+面積 {'reading': 'めんせき', 'meanings': ['square measure', 'Area']}
+膜 {'reading': 'まく', 'meanings': ['membrane']}
+技巧 {'reading': 'ぎこう', 'meanings': ['technique']}
+要因 {'reading': 'よういん', 'meanings': ['main cause']}
+プラズマ {'reading': 'プラズマ', 'meanings': ['plasma', 'Plasma (physics)']}
+プレート {'reading': 'プレート', 'meanings': ['plate (often as in "tectonic plate")']}
+保障 {'reading': 'ほしょう', 'meanings': ['guarantee', 'Co-signing']}
+わたっ {'reading': 'わた', 'meanings': ['cotton plant (Gossypium spp.)', 'batting']}
+全滅 {'reading': 'ぜんめつ', 'meanings': ['annihilation']}
+その {'reading': 'その', 'meanings': ['that', 'part (as in "part two")', 'um ...']}
+増加 {'reading': 'ぞうか', 'meanings': ['increase']}
+おり {'reading': 'おり', 'meanings': ['weave', 'Weaving']}
+温度 {'reading': 'おんど', 'meanings': ['temperature', 'Temperature']}
+優位 {'reading': 'ゆうい', 'meanings': ['predominance']}
+認識 {'reading': 'にんしき', 'meanings': ['recognition', 'Cognition']}
+できる {'reading': 'できる', 'meanings': ['to be able (in a position) to do', 'to be ready', 'to be made', 'to be good at', 'to become intimate', 'to grow', 'to become pregnant']}
+離合 {'reading': 'りごう', 'meanings': ['alliance and rupture']}
+徐々 {'reading': 'じょじょ', 'meanings': ['slow', 'calm']}
+都市 {'reading': 'とし', 'meanings': ['town', 'City']}
+だけ {'reading': 'だけ', 'meanings': ['only', 'as much as']}
+アール {'reading': 'アール', 'meanings': ['R', 'radius', 'curve', 'nth year in the Reiwa era (May 1, 2019-)', 'refrigerator']}
+磁鉄 {'reading': 'じてっこう', 'meanings': ['magnetite', 'Magnetite']}
+エヌエー {'reading': 'ナン', 'meanings': ['not a number']}
+獲得 {'reading': 'かくとく', 'meanings': ['acquisition']}
+電離 {'reading': 'でんり', 'meanings': ['ionization', 'electrolytic dissociation']}
+簡単 {'reading': 'かんたん', 'meanings': ['simple', 'brief']}
+中心 {'reading': 'ちゅうしん', 'meanings': ['center', '-centered', 'Centre (geometry)']}
+エネルギー {'reading': 'エネルギー', 'meanings': ['energy', 'energy', 'energy source', 'food energy', 'Energy']}
+立つ {'reading': 'たつ', 'meanings': ['to stand', 'to find oneself (e.g. in a difficult position)', 'to depart (on a plane, train, etc.)']}
+悪 {'reading': 'あく', 'meanings': ['evil', '(role of) the villain (in theatre, etc.)', 'Evil']}
+的 {'reading': 'てき', 'meanings': ['-ical', '-like', '(something) like', '-wise', 'Mr.']}
+材料 {'reading': 'ざいりょう', 'meanings': ['ingredients', 'material (for a novel, experiment, etc.)', 'basis (for a decision)', '(market) factor']}
+不可欠 {'reading': 'ふかけつ', 'meanings': ['indispensable']}
+始まる {'reading': 'はじまる', 'meanings': ['to begin', 'to happen (again)', 'to date (from)']}
+新酒 {'reading': 'しんしゅ', 'meanings': ['new brew of sake']}
+圧縮 {'reading': 'あっしゅく', 'meanings': ['compression', 'Compression']}
+症状 {'reading': 'しょうじょう', 'meanings': ['symptoms']}
+現象 {'reading': 'げんしょう', 'meanings': ['phenomenon', 'Phenomenon']}
+機関 {'reading': 'きかん', 'meanings': ['engine', 'agency', 'system']}
+容積 {'reading': 'ようせき', 'meanings': ['capacity']}
+書 {'reading': 'ふみ', 'meanings': ['letter', 'Sentence (linguistics)']}
+密接 {'reading': 'みっせつ', 'meanings': ['close (relationship, connection, etc.)', 'close (together)']}
+突き進む {'reading': 'つきすすむ', 'meanings': ['to push on']}
+動物 {'reading': 'どうぶつ', 'meanings': ['animal', 'Animal']}
+岩 {'reading': 'いわ', 'meanings': ['rock', 'crag', 'anchor']}
+氏 {'reading': 'し', 'meanings': ['Mr', 'clan', 'he', 'counter for people']}
+多種 {'reading': 'たしゅ', 'meanings': ['many kinds']}
+炉 {'reading': 'ろ', 'meanings': ['hearth', 'furnace', 'Furnace']}
+たゆみ {'reading': 'たゆみ', 'meanings': ['relaxing']}
+拍車 {'reading': 'はくしゃ', 'meanings': ['(riding) spur', 'Spur']}
+打撃 {'reading': 'だげき', 'meanings': ['blow', 'batting']}
+跳ん {'reading': 'はねマン', 'meanings': ['win worth 12000 points (or, if dealer, 18000 points)']}
+いる {'reading': 'いる', 'meanings': ['to be (of animate objects)', 'to stay', 'to be ...-ing']}
+嘲笑 {'reading': 'ちょうしょう', 'meanings': ['scornful laughter']}
+学 {'reading': 'がく', 'meanings': ['learning', 'study of ...']}
+紫外 {'reading': 'しがい', 'meanings': ['ultraviolet']}
+止め {'reading': 'とめ', 'meanings': ['(a) stop (e.g. in a timber joint, or at the end of a kanji stroke)', 'remaining (e.g. poste-restante)', 'forty-five degree angle']}
+補佐 {'reading': 'ほさ', 'meanings': ['aid']}
+人間 {'reading': 'にんげん', 'meanings': ['human being', 'character (of a person)', 'Human']}
+歴史 {'reading': 'れきし', 'meanings': ['history', 'History']}
+過去 {'reading': 'かこ', 'meanings': ['the past', "one's past (that one would prefer remained secret)", 'past (tense)', 'previous life', 'Past']}
+戻る {'reading': 'もどる', 'meanings': ['to turn back (e.g. half-way)', 'to return', 'to recover (e.g. something lost)', 'to rebound']}
+現す {'reading': 'あらわす', 'meanings': ['to represent', 'to reveal', 'to express', 'to make widely known']}
+違う {'reading': 'ちがう', 'meanings': ['to differ (from)', 'to not be in the usual condition', 'to not match the correct (answer, etc.)', 'to be different from promised', "isn't it?"]}
+マグマ {'reading': 'マグマ', 'meanings': ['magma', 'Magma']}
+極 {'reading': 'きょく', 'meanings': ['pole', 'climax']}
+溶かし {'reading': 'とかす', 'meanings': ['to dissolve', 'to melt']}
+表面 {'reading': 'ひょうめん', 'meanings': ['surface', 'outside', 'appearances']}
+大進 {'reading': 'だいしんぽ', 'meanings': ['major progress']}
+なか {'reading': 'なか', 'meanings': ['relation']}
+難民 {'reading': 'なんみん', 'meanings': ['refugee', 'person inconvenienced by (lack of something)', 'Refugee']}
+流れ {'reading': 'ながれ', 'meanings': ['flow (of a fluid or gas)', 'flow (of people, things)', 'course (of events)', 'group of people who remain together after the end of an event', 'descent', 'forfeiture', 'cancellation', 'drifting', 'Flow']}
+はるか {'reading': 'はるか', 'meanings': ['far away', 'long ago']}
+入ら {'reading': 'はいる', 'meanings': ['to enter', 'to break into', 'to join', 'to contain', 'to have (an income of)', 'to get turned on', 'to get']}
+脂肪 {'reading': 'しぼう', 'meanings': ['fat', 'Fat']}
+大き {'reading': 'おおき', 'meanings': ['great', 'greater (of equal court ranks)', 'a great deal']}
+抜い {'reading': 'ばっすい', 'meanings': ['extract']}
+型 {'reading': 'かた', 'meanings': ['model', 'type', 'mold (mould)', 'kata (standard form of a movement, posture, etc. in martial arts, sport, etc.)', 'form (i.e. customary procedure)', 'size (i.e. clothing, shoes)', 'inch (in diagonal display size)', '(taxonomical) form', 'Type']}
+過熱 {'reading': 'かねつ', 'meanings': ['superheating']}
+数千 {'reading': 'すうせん', 'meanings': ['thousands']}
+コンピュータ {'reading': 'コンピュータ', 'meanings': ['computer', 'Computer']}
+真っ先 {'reading': 'まっさき', 'meanings': ['the head']}
+敵将 {'reading': 'てきしょう', 'meanings': ['enemy general']}
+られ {'reading': 'られつ', 'meanings': ['enumeration']}
+製麺 {'reading': 'せいめん', 'meanings': ['noodle making']}
+ドラマ {'reading': 'ドラマ', 'meanings': ['(non-documentary) television series', 'drama', 'Dhrama (Greece)', 'Drama']}
+地域 {'reading': 'ちいき', 'meanings': ['area', 'Region']}
+激変 {'reading': 'げきへん', 'meanings': ['sudden change']}
+大型 {'reading': 'おおがた', 'meanings': ['large']}
+地上 {'reading': 'ちじょう', 'meanings': ['above ground', 'this world']}
+後 {'reading': 'うしろ', 'meanings': ['back']}
+ほど {'reading': 'ほど', 'meanings': ['extent', 'limit', '(span of) time', '(a) distance', 'the state of', 'about', 'as much as ...', 'the more ... the more ...']}
+アフリカ {'reading': 'アフリカ', 'meanings': ['Africa']}
+形態 {'reading': 'けいたい', 'meanings': ['form', 'Shape']}
+取り込む {'reading': 'とりこむ', 'meanings': ['to take in', 'to capture (e.g. image)', 'to win over', 'to defraud of', 'to be busy']}
+おい {'reading': 'おい', 'meanings': ['old age']}
+など {'reading': 'など', 'meanings': ['et cetera', 'or something', 'the likes of', 'for example']}
+切り替え {'reading': 'きりかえ', 'meanings': ['exchange']}
+原書 {'reading': 'げんしょ', 'meanings': ['original document (not a copy or adaptation)']}
+交換 {'reading': 'こうかん', 'meanings': ['exchange']}
+他 {'reading': 'ほか', 'meanings': ['other (place, thing, person)', 'outside', 'nothing except', 'besides...']}
+する {'reading': 'する', 'meanings': ['to do', 'to cause to become', 'to serve as', 'to wear (clothes, a facial expression, etc.)', 'to judge as being', 'to decide on', 'to be sensed (of a smell, noise, etc.)', 'to be (in a state, condition, etc.)', 'to be worth', 'to pass (of time)', 'to place, or raise, person A to a post or status B', 'to transform A to B', 'to make use of A for B', 'to feel A about B', 'verbalizing suffix (applies to nouns noted in this dictionary with the part of speech "vs")', 'creates a humble verb (after a noun prefixed with "o" or "go")', 'to be just about to']}
+事象 {'reading': 'じしょう', 'meanings': ['event']}
+近代 {'reading': 'きんだい', 'meanings': ['present day', 'early modern period (in Japan, usu. from the Meiji Restoration until the end of World War II)']}
+中央 {'reading': 'ちゅうおう', 'meanings': ['centre', 'metropolis', 'Chuuou']}
+行政 {'reading': 'ぎょうせい', 'meanings': ['administration', 'Executive (government)']}
+あの {'reading': 'あの', 'meanings': ['that']}
+細菌 {'reading': 'さいきん', 'meanings': ['bacterium']}
+サイズ {'reading': 'サイズ', 'meanings': ['size', 'Size']}
+還元 {'reading': 'かんげん', 'meanings': ['restoration', 'reduction']}
+生態 {'reading': 'せいたい', 'meanings': ['mode of life', '(animal) territory']}
+演武 {'reading': 'えんぶ', 'meanings': ['martial arts demonstration', 'martial arts training', 'Embusen']}
+警察 {'reading': 'けいさつ', 'meanings': ['police', 'police officer', 'police station', 'Police']}
+さらさ {'reading': 'サラサ', 'meanings': ['cotton print', 'Chintz']}
+たび {'reading': 'たび', 'meanings': ['travel']}
+哺乳 {'reading': 'ほにゅう', 'meanings': ['suckling']}
+育む {'reading': 'はぐくむ', 'meanings': ['to raise', 'to cultivate']}
+気象 {'reading': 'きしょう', 'meanings': ['weather', 'disposition', 'Weather']}
+星間 {'reading': 'せいかん', 'meanings': ['interstellar']}
+果たし {'reading': 'はたして', 'meanings': ['as was expected', 'really']}
+待機 {'reading': 'たいき', 'meanings': ['standing by']}
+れ {'reading': 'レ', 'meanings': ['check mark']}
+食糧 {'reading': 'しょくりょう', 'meanings': ['food (esp. staple food such as rice or wheat)']}
+作る {'reading': 'つくる', 'meanings': ['to make', 'to prepare (food)', 'to raise', 'to till', 'to draw up (a document)', 'to create (an artistic work, etc.)', 'to coin (a phrase)', 'to have (a child)', "to make up (one's face, etc.)", 'to fabricate (an excuse, etc.)', 'to give a (false) appearance', 'to form (a line, etc.)', 'to set (a record)', 'to commit (a sin, etc.)']}
+発展 {'reading': 'はってん', 'meanings': ['development', 'development (of a situation, story, etc.)', 'playing around', 'Hatten']}
+高 {'reading': 'たか', 'meanings': ['quantity']}
+大 {'reading': 'だい', 'meanings': ['large', 'great', '-sized', 'university', 'large (e.g. serving size)', 'long month (i.e. having 31 days)']}
+陸上 {'reading': 'りくじょう', 'meanings': ['(on) land', 'track-and-field events']}
+発生 {'reading': 'はっせい', 'meanings': ['outbreak', 'generation (e.g. of power or heat)', 'ontogeny']}
+角膜 {'reading': 'かくまく', 'meanings': ['cornea', 'Cornea']}
+質的 {'reading': 'しつてき', 'meanings': ['qualitative']}
+生み出さ {'reading': 'うみだす', 'meanings': ['to create', 'to invent', 'to give birth to']}
+取り {'reading': 'とり', 'meanings': ['taking', 'last performer of the day (usu. the star performer)', 'active partner (e.g. in judo demonstration)', 'emphatic or formal prefix']}
+地殻 {'reading': 'ちかく', 'meanings': ["(Earth's) crust", 'Crust (geology)']}
+知見 {'reading': 'ちけん', 'meanings': ['expertise']}
+実現 {'reading': 'じつげん', 'meanings': ['implementation (e.g. of a system)']}
+農業 {'reading': 'のうぎょう', 'meanings': ['agriculture', 'Agriculture']}
+姿 {'reading': 'すがた', 'meanings': ['figure', 'appearance', 'state', 'form (of a waka)', 'dressed in ...']}
+生息 {'reading': 'せいそく', 'meanings': ['inhabiting']}
+一瞬 {'reading': 'いっしゅん', 'meanings': ['instant']}
+牧畜 {'reading': 'ぼくちく', 'meanings': ['stock-farming', 'Pastoralism']}
+仕組み {'reading': 'しくみ', 'meanings': ['structure', 'plan']}
+より {'reading': 'より', 'meanings': ['than', 'from', 'except', 'more', 'Yori (kana)']}
+爆発 {'reading': 'ばくはつ', 'meanings': ['explosion', 'eruption (of discontent, etc.)', 'Explosion']}
+同士 {'reading': 'どうし', 'meanings': ['fellow']}
+大地 {'reading': 'だいち', 'meanings': ['ground']}
+再三 {'reading': 'さいさん', 'meanings': ['again and again']}
+開始 {'reading': 'かいし', 'meanings': ['start']}
+部分 {'reading': 'ぶぶん', 'meanings': ['portion']}
+イクチオステガ {'reading': 'イクチオステガ', 'meanings': ['Ichthyostega']}
+紙 {'reading': 'かみ', 'meanings': ['paper', 'Paper']}
+世襲 {'reading': 'せしゅう', 'meanings': ['heredity', 'Order of succession']}
+現れ {'reading': 'あらわれ', 'meanings': ['embodiment']}
+生じ {'reading': 'しょうじる', 'meanings': ['to produce', 'to result from']}
+つながる {'reading': 'つながる', 'meanings': ['to be tied together', 'to lead to', 'to be related (by blood)']}
+軌道 {'reading': 'きどう', 'meanings': ['orbit', 'railroad track', '(right) track']}
+イオン {'reading': 'イオン', 'meanings': ['ion', 'Ion']}
+渡っ {'reading': 'わたる', 'meanings': ['to cross over', 'to extend']}
+低音 {'reading': 'ていおん', 'meanings': ['low tone']}
+深刻 {'reading': 'しんこく', 'meanings': ['serious']}
+集散 {'reading': 'しゅうさん', 'meanings': ['collection (gathering) and distribution']}
+ステージ {'reading': 'ステージ', 'meanings': ['stage', 'performance', 'Stage']}
+何 {'reading': 'なに', 'meanings': ['what', 'you-know-what', 'whatsit', '(not) at all', 'what?', 'hey!', "oh, no (it's fine)"]}
+骨格 {'reading': 'こっかく', 'meanings': ['skeleton', 'framework', 'Skeleton']}
+主役 {'reading': 'しゅやく', 'meanings': ['leading part']}
+文化 {'reading': 'ぶんか', 'meanings': ['culture', 'Bunka era (1804.2.11-1818.4.22)', 'Bunka', 'Culture']}
+電流 {'reading': 'でんりゅう', 'meanings': ['electric current', 'Electric current']}
+日 {'reading': 'にち', 'meanings': ['Sunday', 'day (of the month)', 'counter for days', 'Japan', 'Nichi']}
+葉緑 {'reading': 'ようりょくたい', 'meanings': ['chloroplast', 'Chloroplast']}
+場所 {'reading': 'ばしょ', 'meanings': ['place', 'room', 'basho']}
+逆 {'reading': 'ぎゃく', 'meanings': ['reverse', 'converse (of a hypothesis, etc.)', 'inverse (function)', 'Converse (logic)']}
+支配 {'reading': 'しはい', 'meanings': ['domination', 'direction', "control (e.g. over one's emotions)"]}
+族 {'reading': 'ぞく', 'meanings': ['tribe', '(taxonomical) tribe', 'group (of the periodic table)']}
+近づく {'reading': 'ちかづく', 'meanings': ['to approach', 'to get acquainted with']}
+薄い {'reading': 'うすい', 'meanings': ['thin', 'pale', 'watery', 'weak (taste, etc.)', 'slim (probability, etc.)', 'sparse']}
+循環 {'reading': 'じゅんかん', 'meanings': ['circulation']}
+ブーン {'reading': 'ブーン', 'meanings': ['whirr', 'whoosh', 'Boone']}
+へ {'reading': 'へ', 'meanings': ['to', 'He (kana)']}
+施工 {'reading': 'せこう', 'meanings': ['construction']}
+摂取 {'reading': 'せっしゅ', 'meanings': ['intake (e.g. of salt)', 'absorption (e.g. of new knowledge)', 'reception and protection', 'Ingestion']}
+侵食 {'reading': 'しんしょく', 'meanings': ['encroachment', 'erosion', 'Erosion']}
+とも {'reading': 'とも', 'meanings': ['friend', 'accompaniment']}
+まだ {'reading': 'まだ', 'meanings': ['still', '(not) yet', 'more', 'at least', 'unfinished']}
+実 {'reading': 'じつ', 'meanings': ['truth', 'sincerity', 'content', '(good) result']}
+おら {'reading': 'おら', 'meanings': ['I']}
+行わ {'reading': 'おこなわれる', 'meanings': ['to be done']}
+受粉 {'reading': 'じゅふん', 'meanings': ['pollination', 'Pollination']}
+減少 {'reading': 'げんしょう', 'meanings': ['decrease']}
+惨劇 {'reading': 'さんげき', 'meanings': ['tragedy']}
+占める {'reading': 'しめる', 'meanings': ['to occupy', 'to account for']}
+湖水 {'reading': 'こすい', 'meanings': ['lake']}
+サイクル {'reading': 'サイクル', 'meanings': ['cycle', 'Cycle']}
+停止 {'reading': 'ていし', 'meanings': ['stoppage', 'ceasing (movement, activity, etc.)', 'suspension (of payment, licence, etc.)', 'suspension of music, dance, etc. as a sign of mourning for a prominent person']}
+テクトニクス {'reading': 'テクトニクス', 'meanings': ['tectonics', 'Tectonics']}
+選挙 {'reading': 'せんきょ', 'meanings': ['election', 'Election']}
+はじめ {'reading': 'はじめ', 'meanings': ['beginning', 'first (in line, etc.)', 'origin', 'such as ...']}
+消費 {'reading': 'しょうひ', 'meanings': ['consumption', 'Consumption (economics)']}
+ますます {'reading': 'ますます', 'meanings': ['increasingly']}
+異 {'reading': 'い', 'meanings': ['difference (of opinion)', 'strange', 'different']}
+柱 {'reading': 'はしら', 'meanings': ['pillar', 'support', 'counter for buddhas, gods, nobles, etc.', 'Column']}
+向かい {'reading': 'むかい', 'meanings': ['facing']}
+南端 {'reading': 'なんたん', 'meanings': ['southern tip']}
+星々 {'reading': 'ほしぼし', 'meanings': ['stars']}
+ニュートン {'reading': 'ニュートン', 'meanings': ['newton (N) (SI unit of force)', 'Newton (Sir Isaac)', 'Newton (unit)']}
+含ま {'reading': 'ふくませる', 'meanings': ['to soak']}
+バリエーション {'reading': 'バリエーション', 'meanings': ['variation', 'Variation']}
+出発 {'reading': 'しゅっぱつ', 'meanings': ['departure']}
+藻類 {'reading': 'そうるい', 'meanings': ['seaweed', 'Algae']}
+場 {'reading': 'ば', 'meanings': ['place', 'field', 'occasion', 'scene (of a play, movie, etc.)', 'session (of the stock market)', 'field', 'round (east, south, etc.)', 'field', 'field (gestalt psychology)', 'Field (physics)']}
+ミト {'reading': 'ミトコンドリア', 'meanings': ['mitochondria', 'Mitochondrion']}
+始まろう {'reading': 'はじまる', 'meanings': ['to begin', 'to happen (again)', 'to date (from)']}
+さらに {'reading': 'さらに', 'meanings': ['furthermore']}
+かけら {'reading': 'かけら', 'meanings': ['fragment', 'ounce (of truth, conscience, etc.)']}
+地中 {'reading': 'ちちゅう', 'meanings': ['underground']}
+大西 {'reading': 'たいせいよう', 'meanings': ['Atlantic Ocean', 'Taiseiyou', 'Atlantic Ocean']}
+ら {'reading': 'ら', 'meanings': ['pluralizing suffix', 'or so', 'nominalizing suffix']}
+豪州 {'reading': 'ごうしゅう', 'meanings': ['Australia']}
+形 {'reading': 'かたち', 'meanings': ['form', 'visage']}
+鉄道 {'reading': 'てつどう', 'meanings': ['railroad', 'Rail transport']}
+真正 {'reading': 'しんせい', 'meanings': ['genuine']}
+いん {'reading': 'いん', 'meanings': ['member']}
+日陰 {'reading': 'ひかげ', 'meanings': ['shade', 'sunshine']}
+文明 {'reading': 'ぶんめい', 'meanings': ['civilization', 'Bunmei era (1469.4.28-1487.7.20)', 'Civilization']}
+さ {'reading': 'さ', 'meanings': ['difference', 'difference']}
+組織 {'reading': 'そしき', 'meanings': ['organization', 'structure', 'system (e.g. railroad, transport, party, etc.)', 'tissue', 'texture (of a rock)', 'weave (of a fabric)']}
+大陸 {'reading': 'たいりく', 'meanings': ['continent', 'continental Asia (esp. mainland China)', 'continental Europe', 'Continent']}
+合い {'reading': 'あい', 'meanings': ['between-season wear', 'together', 'condition', '-ish']}
+大気 {'reading': 'たいき', 'meanings': ['atmosphere', 'magnanimity']}
+よ {'reading': 'よ', 'meanings': ['world', 'life', 'age', 'reign', 'the times', 'world (of existence)', 'Series (stratigraphy)']}
+大切 {'reading': 'たいせつ', 'meanings': ['important', 'beloved', 'careful']}
+月面 {'reading': 'げつめん', 'meanings': ["moon's surface"]}
+元素 {'reading': 'げんそ', 'meanings': ['element', '(classical) element (e.g. earth, water, air, fire)', 'origin', 'Chemical element']}
+法 {'reading': 'ほう', 'meanings': ['law', 'method', 'mood', 'dharma']}
+離れ {'reading': 'はなれ', 'meanings': ['detached building', 'separation from']}
+太鼓 {'reading': 'たいこ', 'meanings': ['drum', 'Drum']}
+終焉 {'reading': 'しゅうえん', 'meanings': ['demise']}
+結びつき {'reading': 'むすびつき', 'meanings': ['connection']}
+初期 {'reading': 'しょき', 'meanings': ['early (days)', 'initial']}
+絶滅 {'reading': 'ぜつめつ', 'meanings': ['extinction', 'eradication', 'Extinction']}
+空間 {'reading': 'くうかん', 'meanings': ['space', 'Space']}
+生き物 {'reading': 'いきもの', 'meanings': ['living thing']}
+利用 {'reading': 'りよう', 'meanings': ['use']}
+進ん {'reading': 'すすんで', 'meanings': ['voluntarily']}
+予測 {'reading': 'よそく', 'meanings': ['prediction']}
+当時 {'reading': 'とうじ', 'meanings': ['at that time', 'Touji']}
+一時 {'reading': 'いちじ', 'meanings': ["one o'clock", 'once', 'for a time', 'a time']}
+終わり {'reading': 'おわり', 'meanings': ['the end']}
+しまう {'reading': 'しまう', 'meanings': ['to finish', 'to close (a business, etc.)', 'to put away', 'to do completely', 'to do accidentally']}
+産 {'reading': 'さん', 'meanings': ['(giving) birth', 'native of', 'assets']}
+歩み {'reading': 'あゆみ', 'meanings': ['walking', 'pace', "course (of history, one's life, etc.)", 'pitch (of a screw, etc.)']}
+起こら {'reading': 'おこる', 'meanings': ['to occur']}
+出現 {'reading': 'しゅつげん', 'meanings': ['appearance']}
+起こっ {'reading': 'おこる', 'meanings': ['to occur']}
+大会 {'reading': 'たいかい', 'meanings': ['mass meeting', 'tournament', 'grand event']}
+近い {'reading': 'ちかい', 'meanings': ['near', 'close (in time)', 'close (relationship)', 'closely related', 'similar']}
+さん {'reading': 'さん', 'meanings': ['three', 'tri-']}
+でき {'reading': 'でき', 'meanings': ['workmanship', 'grades', 'quality (e.g. of a crop)', 'dealings']}
+こと {'reading': 'こと', 'meanings': ['thing', 'incident', 'circumstances', 'work', 'after an inflectable word, creates a noun phrase indicating something the speaker does not feel close to', 'nominalizing suffix', 'pretending to ...', 'alias', 'necessity', 'you should ...']}
+範囲 {'reading': 'はんい', 'meanings': ['extent']}
+様々 {'reading': 'さまざま', 'meanings': ['various']}
+代謝 {'reading': 'たいしゃ', 'meanings': ['metabolism', 'renewal', 'Metabolism']}
+迎える {'reading': 'むかえる', 'meanings': ['to go out to meet', 'to receive', 'to accept (e.g. as a member of a group or family)', 'to call for', "to approach (a certain time, a point in one's life, etc.)"]}
+断続 {'reading': 'だんぞく', 'meanings': ['intermittence']}
+嫌気 {'reading': 'いやき', 'meanings': ['dislike']}
+公達 {'reading': 'きんだち', 'meanings': ['kings']}
+暖かい {'reading': 'あたたかい', 'meanings': ['warm', 'considerate', 'warm (of a colour)', 'having enough money']}
+炭素 {'reading': 'たんそ', 'meanings': ['carbon (C)', 'Carbon']}
+海嶺 {'reading': 'かいれい', 'meanings': ['(submarine) ridge', 'Mid-ocean ridge']}
+イギリス {'reading': 'イギリス', 'meanings': ['United Kingdom', 'England']}
+戦争 {'reading': 'せんそう', 'meanings': ['war', 'fighting', 'War']}
+鉄 {'reading': 'てつ', 'meanings': ['iron (Fe)', 'strong and hard (as iron)', 'railway', 'railway enthusiast', 'Iron']}
+室 {'reading': 'しつ', 'meanings': ['room', 'wife (of someone of high rank)', 'scabbard', 'Chinese "Encampment" constellation (one of the 28 mansions)']}
+いよいよ {'reading': 'いよいよ', 'meanings': ['more and more', 'at last', '(at the) last moment']}
+初めて {'reading': 'はじめて', 'meanings': ['for the first time', 'only after ... is it ...', 'first time']}
+到達 {'reading': 'とうたつ', 'meanings': ['reaching']}
+増やす {'reading': 'ふやす', 'meanings': ['to increase']}
+太平 {'reading': 'たいへい', 'meanings': ['peace', 'happy-go-lucky', 'Taiping']}
+運ば {'reading': 'うんどうじょう', 'meanings': ['sports ground', 'Undoujou', 'Playing field']}
+削り取ら {'reading': 'けずりとる', 'meanings': ['to shave off']}
+声明 {'reading': 'せいめい', 'meanings': ['declaration', 'Shōmyō']}
+降り注ぐ {'reading': 'ふりそそぐ', 'meanings': ['to rain incessantly']}
+使える {'reading': 'つかえる', 'meanings': ['to be usable']}
+ジア {'reading': 'ジアゾジニトロフェノール', 'meanings': ['diazodinitrophenol', 'Diazodinitrophenol']}
+湖 {'reading': 'みずうみ', 'meanings': ['lake', 'Lake']}
+コア {'reading': 'コア', 'meanings': ['core', 'core', 'Core']}
+一方 {'reading': 'いっぽう', 'meanings': ['one (esp. of two)', 'on the one hand', 'whereas', 'just keeps', 'Ippou']}
+四 {'reading': 'し', 'meanings': ['four']}
+脳 {'reading': 'のう', 'meanings': ['brain', 'brains', 'Brain']}
+最も {'reading': 'もっとも', 'meanings': ['most']}
+価鉄 {'reading': 'あたい', 'meanings': ['price', 'value', 'value', 'Value']}
+が {'reading': 'が', 'meanings': ['indicates sentence subject (occasionally object)', 'indicates possessive (esp. in literary expressions)', 'but', 'regardless of']}
+急速 {'reading': 'きゅうそく', 'meanings': ['rapid (e.g. progress)']}
+小国 {'reading': 'しょうこく', 'meanings': ['small country']}
+ん {'reading': 'ん', 'meanings': ['yes', 'huh?', 'not', "'s", 'at (place, time)', 'N (kana)']}
+分布 {'reading': 'ぶんぷ', 'meanings': ['distribution', 'Distribution']}
+武器 {'reading': 'ぶき', 'meanings': ['weapon', 'weapon (something used to gain an advantage)', 'Weapon']}
+達する {'reading': 'たっする', 'meanings': ['to reach']}
+地表 {'reading': 'ちひょう', 'meanings': ['surface of the earth']}
+魚類 {'reading': 'ぎょるい', 'meanings': ['fish', 'Fish']}
+規模 {'reading': 'きぼ', 'meanings': ['scale']}
+生まれ {'reading': 'うまれ', 'meanings': ['birth', 'born in (country, month, imperial era, zodiac year, etc.)']}
+孤立 {'reading': 'こりつ', 'meanings': ['isolation']}
+適合 {'reading': 'てきごう', 'meanings': ['conformity']}
+恵まれ {'reading': 'めぐまれる', 'meanings': ['to be blessed with']}
+界 {'reading': 'さかい', 'meanings': ['border', 'turning point', 'area', 'psychological state', 'cognitive object']}
+含ん {'reading': 'ふくみしさん', 'meanings': ['hidden assets']}
+アジア {'reading': 'アジア', 'meanings': ['Asia', 'Asia']}
+始める {'reading': 'はじめる', 'meanings': ['to start', 'to start up (a business, society, etc.)', 'to start ...']}
+南 {'reading': 'みなみ', 'meanings': ['south', 'South']}
+台 {'reading': 'だい', 'meanings': ['stand', 'support', 'counter for machines, incl. vehicles', 'setting (e.g. in jewellery)', 'level (e.g. price level)', 'elevated area', 'viewing platform', 'dish tray', 'meal', 'tall building']}
+矮 {'reading': 'わいしょう', 'meanings': ['diminutive', 'narrow (e.g. thinking)']}
+発熱 {'reading': 'はつねつ', 'meanings': ['generation of heat', '(attack of) fever', 'Fever']}
+一 {'reading': 'いち', 'meanings': ['one', 'best', 'first', 'beginning', 'a (single)', 'ace (playing card)', 'bottom string (on a shamisen, etc.)']}
+ロリス {'reading': 'ロリス', 'meanings': ['loris', 'Lorris']}
+突然 {'reading': 'とつぜん', 'meanings': ['abrupt']}
+崩壊 {'reading': 'ほうかい', 'meanings': ['collapse', '(radioactive) decay']}
+起こる {'reading': 'おこる', 'meanings': ['to occur']}
+境 {'reading': 'さかい', 'meanings': ['border', 'turning point', 'area', 'psychological state', 'cognitive object']}
+スターバースト {'reading': 'スターバースト', 'meanings': ['Starburst region']}
+岩石 {'reading': 'がんせき', 'meanings': ['rock', 'Rock (geology)']}
+法律 {'reading': 'ほうりつ', 'meanings': ['law', 'Statute']}
+脂質 {'reading': 'ししつ', 'meanings': ['lipid', 'Lipid']}
+豊か {'reading': 'ゆたか', 'meanings': ['abundant', 'rich', 'open (mind)', 'plump (e.g. breasts)', '(well) over']}
+含む {'reading': 'ふくむ', 'meanings': ['to contain', 'to hold in the mouth', 'to bear in mind', 'to express (emotion, etc.)']}
+前回 {'reading': 'ぜんかい', 'meanings': ['previous time']}
+樹 {'reading': 'き', 'meanings': ['tree', 'wood', 'Tree']}
+位 {'reading': 'くらい', 'meanings': ['throne', 'government position', 'social standing', 'grade (of quality, etc.)', 'position of a figure (e.g. tens, thousands)', 'degree']}
+黒星 {'reading': 'くろぼし', 'meanings': ['black spot', 'mark indicating a defeat', 'loss']}
+耐える {'reading': 'たえる', 'meanings': ['to bear', 'to support', 'to be fit for']}
+探査 {'reading': 'たんさ', 'meanings': ['probe']}
+増大 {'reading': 'ぞうだい', 'meanings': ['enlargement']}
+短い {'reading': 'みじかい', 'meanings': ['short', 'brief']}
+そこ {'reading': 'そこ', 'meanings': ['there (place relatively near listener)', 'there (place just mentioned)', 'then (of some incident just spoken of)', 'you']}
+たくさん {'reading': 'たくさん', 'meanings': ['a lot', 'enough', 'enough']}
+たし {'reading': 'たし', 'meanings': ['bearing many children', 'Oigo']}
+海王 {'reading': 'かいおうせい', 'meanings': ['Neptune (planet)', 'Neptune']}
+つながり {'reading': 'つながり', 'meanings': ['connection']}
+十分 {'reading': 'じゅうぶん', 'meanings': ['enough', 'sufficiently', 'division into ten']}
+イボ {'reading': 'いぼ', 'meanings': ['wart']}
+よう {'reading': 'よう', 'meanings': ['appearing ...', 'way to ...', 'form', 'like', 'thing (thought or spoken)']}
+形成 {'reading': 'けいせい', 'meanings': ['formation', 'repair (e.g. plastic surgery)']}
+向かっ {'reading': 'むかっぱら', 'meanings': ['anger']}
+原核 {'reading': 'げんかくせいぶつ', 'meanings': ['prokaryote', 'Prokaryote']}
+頻度 {'reading': 'ひんど', 'meanings': ['frequency (of occurrence)']}
+目前 {'reading': 'もくぜん', 'meanings': ["before one's very eyes"]}
+とっん {'reading': 'とぶ', 'meanings': ['to fly', 'to jump', 'to spatter', 'to hurry', 'to flee', 'to disappear', 'to break off', 'to be sent out (of an order)', 'to come flying (of a punch, kick, etc.)', 'to be missing (of a page, stitch, etc.)']}
+な {'reading': 'な', 'meanings': ["don't", 'do', 'hey', 'now, ...', 'wow', 'Na (kana)']}
+浄化 {'reading': 'じょうか', 'meanings': ['purification', 'cleanup (e.g. of politics)']}
+統一 {'reading': 'とういつ', 'meanings': ['unity', 'Political union']}
+機能 {'reading': 'きのう', 'meanings': ['function']}
+なり {'reading': 'なり', 'meanings': ['or something', '... or ...', 'as soon as', 'while still']}
+クレーター {'reading': 'クレーター', 'meanings': ['crater', 'pockmark', 'Impact crater']}
+知ら {'reading': 'しらせる', 'meanings': ['to notify']}
+中和 {'reading': 'ちゅうわ', 'meanings': ['neutralization']}
+再度 {'reading': 'さいど', 'meanings': ['twice']}
+生きる {'reading': 'いきる', 'meanings': ['to live', 'to make a living', 'to be in effect', 'to come to life', 'to be safe (in baseball, go, etc.)', 'To Live (film)']}
+拡大 {'reading': 'かくだい', 'meanings': ['magnification']}
+生活 {'reading': 'せいかつ', 'meanings': ['living', 'Seikatsu']}
+よく {'reading': 'よく', 'meanings': ['nicely', 'frequently', "I'm glad that you ...", '(you have) quite the nerve to']}
+主義 {'reading': 'しゅぎ', 'meanings': ['doctrine']}
+なる {'reading': 'なる', 'meanings': ['to become', 'to result in', 'to consist of', 'to be completed', 'to change (into)', 'to come (to do)', 'to come to', 'to play (the part of)', 'to be used for', 'to be promoted', 'to do ...', 'Naru']}
+全体 {'reading': 'ぜんたい', 'meanings': ['whole']}
+死滅 {'reading': 'しめつ', 'meanings': ['extinction']}
+マントル {'reading': 'マントル', 'meanings': ['mantle', 'mantle (e.g. gas)', 'Mantle (geology)']}
+万 {'reading': 'まん', 'meanings': ['10,000', 'myriad', 'everything', 'various']}
+よっ {'reading': 'よっつ', 'meanings': ['four', 'four years of age', "ten o'clock (old time system)", 'cross grips']}
+反映 {'reading': 'はんえい', 'meanings': ['reflection (light, image, situation, attitude, etc.)', 'influence']}
+沈ん {'reading': 'しずんだこころ', 'meanings': ['low spirits']}
+剛性 {'reading': 'ごうせい', 'meanings': ['hardness', 'Stiffness']}
+危機 {'reading': 'きき', 'meanings': ['crisis', 'Close to the Edge (Yes album)']}
+機 {'reading': 'き', 'meanings': ['chance', 'machine', 'aircraft', 'counter for aircraft', 'counter for remaining lives (in video games)']}
+念 {'reading': 'ねん', 'meanings': ['sense', 'desire', 'attention']}
+オゾン {'reading': 'オゾン', 'meanings': ['ozone', 'Ozone']}
+出会う {'reading': 'であう', 'meanings': ['to meet (by chance)', 'to meet (e.g. of rivers, highways, etc.)', 'to emerge and engage (an enemy)']}
+挙げ {'reading': 'あげる', 'meanings': ['to raise', "to do up (one's hair)", 'to fly (a kite, etc.)', 'to land (a boat)', 'to deep-fry', 'to show someone (into a room)', 'to give', 'to send someone (away)', "to enrol (one's child in school)", 'to increase (price, quality, status, etc.)', 'to make (a loud sound)', 'to earn (something desirable)', 'to praise', 'to give (an example, etc.)', "to summon up (all of one's energy, etc.)", 'to arrest', 'to nominate', 'to summon (for geishas, etc.)', 'to offer up (incense, a prayer, etc.) to the gods (or Buddha, etc.)', 'to bear (a child)', 'to conduct (a ceremony, esp. a wedding)', '(of the tide) to come in', 'to vomit', 'to do for (the sake of someone else)', 'to complete ...', 'to humbly do ...', 'Deep frying']}
+倍 {'reading': 'ばい', 'meanings': ['double', 'times (as much)', '1-nth']}
+音そう {'reading': 'おんせいたじゅうほうそう', 'meanings': ['multiplex broadcast or transmission', 'Second audio program']}
+新星 {'reading': 'しんせい', 'meanings': ['nova', 'new face', 'Nova']}
+選ぶ {'reading': 'えらぶ', 'meanings': ['to choose']}
+以来 {'reading': 'いらい', 'meanings': ['since']}
+水漏れ {'reading': 'みずもれ', 'meanings': ['(water) leak']}
+整っ {'reading': 'ととのった', 'meanings': ['well-ordered']}
+守ら {'reading': 'まもる', 'meanings': ['to protect', 'to keep (i.e. a promise)']}
+バリア {'reading': 'バリア', 'meanings': ['barrier', 'obstacle', 'imaginary shield that gives one invincibility or immunity', 'Barrier']}
+請け負う {'reading': 'うけおう', 'meanings': ['to contract', 'to take over']}
+アポロ {'reading': 'アポロ', 'meanings': ['Apollo program', 'Apollo (Greek and Roman god)']}
+火星 {'reading': 'かせい', 'meanings': ['Mars (planet)', 'Mars']}
+出来上がっ {'reading': 'できあがる', 'meanings': ['to be completed', 'to be very drunk']}
+自然 {'reading': 'しぜん', 'meanings': ['nature', 'natural', 'naturally', 'Nature']}
+私 {'reading': 'わたし', 'meanings': ['I']}
+起き {'reading': 'おきる', 'meanings': ['to get up', 'to wake up', 'to occur (usu. of unfavourable incidents)']}
+押し上げ {'reading': 'おしあげ', 'meanings': ['upheaval']}
+消える {'reading': 'きえる', 'meanings': ['to go out']}
+レベル {'reading': 'レベル', 'meanings': ['level', 'level (plane)', 'spirit level', 'minor release sequence number (software versioning)', 'rebel']}
+富ん {'reading': 'ふじさん', 'meanings': ['Mount Fuji', 'Fujisan', 'Mount Fuji']}
+創造 {'reading': 'そうぞう', 'meanings': ['creation']}
+増し {'reading': 'まし', 'meanings': ['better', 'more', 'increase']}
+肺 {'reading': 'はい', 'meanings': ['lung', 'Lung']}
+注い {'reading': 'ちゅうい', 'meanings': ['attention', 'care', 'advice', 'Attention']}
+体協 {'reading': 'たいきょう', 'meanings': ['Japan Amateur Sports Association']}
+金属 {'reading': 'きんぞく', 'meanings': ['metal', 'Kinzoku', 'Metal']}
+も {'reading': 'も', 'meanings': ['too', 'both A and B', 'even', 'even if', 'further', 'Mo (kana)']}
+地盤 {'reading': 'じばん', 'meanings': ['ground', 'foundation (building, etc.)', 'constituency']}
+深部 {'reading': 'しんぶ', 'meanings': ['depths']}
+ここ {'reading': 'ここ', 'meanings': ['individual']}
+作り出す {'reading': 'つくりだす', 'meanings': ['to manufacture', 'to invent']}
+今 {'reading': 'いま', 'meanings': ['now', 'another']}
+借り {'reading': 'かり', 'meanings': ['borrowing']}
+近く {'reading': 'ちかく', 'meanings': ['near', 'nearly (e.g. "it took nearly one year")', 'shortly']}
+雨 {'reading': 'あめ', 'meanings': ['rain', 'rainy day', 'the November suit (in hanafuda)', 'Rain']}
+体長 {'reading': 'たいちょう', 'meanings': ['length (of an animal)']}
+溶け出す {'reading': 'とけだす', 'meanings': ['to begin to dissolve']}
+維持 {'reading': 'いじ', 'meanings': ['maintenance']}
+恐竜 {'reading': 'きょうりゅう', 'meanings': ['dinosaur', 'Dinosaur']}
+ファイアーる {'reading': 'ファイア', 'meanings': ['fire']}
+直接 {'reading': 'ちょくせつ', 'meanings': ['direct']}
+ゴンドワナ {'reading': 'ゴンドワナ', 'meanings': ['Gondwana', 'Gondwana (India)']}
+タンパク {'reading': 'たんぱく', 'meanings': ['protein', 'egg white']}
+輸送 {'reading': 'ゆそう', 'meanings': ['transport']}
+構想 {'reading': 'こうそう', 'meanings': ['plan']}
+北米 {'reading': 'ほくべい', 'meanings': ['North America', 'Hokubei']}
+自己 {'reading': 'じこ', 'meanings': ['self', 'Psychology of self']}
+不安 {'reading': 'ふあん', 'meanings': ['anxiety', 'Anxiety']}
+ある {'reading': 'ある', 'meanings': ['to be', 'to have', 'to be located', 'to be equipped with', 'to happen']}
+低い {'reading': 'ひくい', 'meanings': ['low (rank, degree, value, content, quality, etc.)', 'low (position)', 'short (height)', 'deep (voice)']}
+そして {'reading': 'そして', 'meanings': ['and']}
+巻き込ま {'reading': 'まきこむ', 'meanings': ['to roll up', 'to involve']}
+連続 {'reading': 'れんぞく', 'meanings': ['continuation']}
+飛躍 {'reading': 'ひやく', 'meanings': ['leaping', 'leapfrog (over a problem)', 'making great strides', 'emerging', 'becoming active']}
+単位 {'reading': 'たんい', 'meanings': ['unit', 'credit (in school)', 'in units of (e.g. "in thousands")', 'Unit']}
+達し {'reading': 'たっし', 'meanings': ['official notice']}
+鈴 {'reading': 'すず', 'meanings': ['bell (often globular)']}
+表層 {'reading': 'ひょうそう', 'meanings': ['surface']}
+成分 {'reading': 'せいぶん', 'meanings': ['ingredient']}
+胸 {'reading': 'むね', 'meanings': ['chest', 'breasts', 'heart', 'lungs', 'stomach', 'heart', 'Chest']}
+補い {'reading': 'おぎない', 'meanings': ['replenishment']}
+カルシウム {'reading': 'カルシウム', 'meanings': ['calcium (Ca)', 'Karushiumu', 'Calcium']}
+冷え {'reading': 'ひえ', 'meanings': ['chilliness']}
+類 {'reading': 'るい', 'meanings': ['kind', 'similar example']}
+使う {'reading': 'つかう', 'meanings': ['to use (a thing, method, etc.)', 'to use (a person, animal, puppet, etc.)', 'to use (time, money, etc.)', 'to use (language)']}
+雲 {'reading': 'くも', 'meanings': ['cloud', 'Cloud']}
+パターン {'reading': 'パターン', 'meanings': ['pattern', 'behavioural pattern', 'Patan (Nepal)', 'Pattern']}
+保持 {'reading': 'ほじ', 'meanings': ['retention']}
+オーバーターン {'reading': 'オーバー', 'meanings': ['overcoat', 'exceeding', 'exaggerated', 'over par', 'overexposure', 'Oba (Canada)', 'Over']}
+起こし {'reading': 'おこし', 'meanings': ['development', 'standing (something) up', 'waking up', 'tilling a rice field', 'drawing a card from the draw pile']}
+青色 {'reading': 'あおいろ', 'meanings': ['blue']}
+パンゲア {'reading': 'パンゲア', 'meanings': ['Pangaea']}
+花柄 {'reading': 'はながら', 'meanings': ['flower pattern']}
+特に {'reading': 'とくに', 'meanings': ['particularly']}
+下部 {'reading': 'かぶ', 'meanings': ['lower part', 'subordinate (office)']}
+アンドロメダ {'reading': 'アンドロメダ', 'meanings': ['Andromeda']}
+おけ {'reading': 'おけ', 'meanings': ['bucket']}
+活発 {'reading': 'かっぱつ', 'meanings': ['lively']}
+持ち上げ {'reading': 'もちあげる', 'meanings': ['to elevate', 'to flatter']}
+しかし {'reading': 'しかし', 'meanings': ['however']}
+融合 {'reading': 'ゆうごう', 'meanings': ['agglutination']}
+超える {'reading': 'こえる', 'meanings': ['to cross over', 'to exceed']}
+法則 {'reading': 'ほうそく', 'meanings': ['law']}
+隕石 {'reading': 'いんせき', 'meanings': ['meteorite', 'Meteorite']}
+混じり合い {'reading': 'まじる', 'meanings': ['to be mixed', 'to associate with']}
+蓄積 {'reading': 'ちくせき', 'meanings': ['accumulation']}
+周辺 {'reading': 'しゅうへん', 'meanings': ['circumference', '(computer) peripheral']}
+変動 {'reading': 'へんどう', 'meanings': ['change']}
+結びつい {'reading': 'むすびつく', 'meanings': ['to be related', 'to result in']}
+流れ込ん {'reading': 'ながれこむ', 'meanings': ['to flow into']}
+取り込み {'reading': 'とりこみ', 'meanings': ['taking in', 'capturing (e.g. customers)', 'confusion', 'importing (e.g. data)']}
+期 {'reading': 'き', 'meanings': ['period', 'opportunity', 'age', 'term (e.g. in office)', 'session (e.g. of parliament)', 'stage (e.g. of a disease)', 'season (e.g. of a TV series)']}
+飛行 {'reading': 'ひこう', 'meanings': ['aviation', 'to fly']}
+層 {'reading': 'そう', 'meanings': ['layer', 'class', 'sheaf', 'counter for stories (of a building)']}
+原子 {'reading': 'げんし', 'meanings': ['atom', 'Atom']}
+なかっ {'reading': 'なかったことにする', 'meanings': ['to forget something ever existed']}
+制 {'reading': 'せい', 'meanings': ['system']}
+大量 {'reading': 'たいりょう', 'meanings': ['large quantity']}
+窒素 {'reading': 'ちっそ', 'meanings': ['nitrogen (N)', 'Nitrogen']}
+わずか {'reading': 'わずか', 'meanings': ['(a) little', 'only']}
+河川 {'reading': 'かせん', 'meanings': ['rivers']}
+浅瀬 {'reading': 'あさせ', 'meanings': ['shoal']}
+溜まっ {'reading': 'たまる', 'meanings': ['to collect']}
+生き抜い {'reading': 'いきぬく', 'meanings': ['to live through']}
+古い {'reading': 'ふるい', 'meanings': ['old', 'long', 'of the distant past', 'stale', 'old-fashioned']}
+人口 {'reading': 'じんこう', 'meanings': ['population', 'common talk', 'Population']}
+近づい {'reading': 'ちかづく', 'meanings': ['to approach', 'to get acquainted with']}
+濃度 {'reading': 'のうど', 'meanings': ['concentration', 'cardinality', 'Concentration']}
+塩 {'reading': 'しお', 'meanings': ['salt', 'hardship', 'saltiness', 'cold', 'Salt']}
+茎 {'reading': 'くき', 'meanings': ['stalk', 'Plant stem']}
+風化 {'reading': 'ふうか', 'meanings': ['weathering', 'fading (of memories)', 'efflorescence', 'Weathering']}
+科学 {'reading': 'かがく', 'meanings': ['science', 'Science']}
+全球 {'reading': 'ぜんきゅうちきゅうかんそくシステム', 'meanings': ['Global Earth Observation System of Systems', 'Global Earth Observation System of Systems']}
+ごろ {'reading': 'ころ', 'meanings': ['(approximate) time', 'suitable time (or condition)', 'time of year']}
+市場 {'reading': 'いちば', 'meanings': ['(town) market', 'Market']}
+潤滑 {'reading': 'じゅんかつ', 'meanings': ['lubrication', 'Lubrication']}
+存在 {'reading': 'そんざい', 'meanings': ['existence', 'Existence']}
+いえる {'reading': 'いえる', 'meanings': ['to be possible to say', 'said']}
+ショー {'reading': 'ショー', 'meanings': ['show', 'She']}
+条件 {'reading': 'じょうけん', 'meanings': ['condition']}
+準備 {'reading': 'じゅんび', 'meanings': ['preparation']}
+鎧 {'reading': 'よろい', 'meanings': ['armor', 'Yoroi']}
+有害 {'reading': 'ゆうがい', 'meanings': ['harmful']}
+入れ {'reading': 'いれ', 'meanings': ['container', 'inserting']}
+なぜ {'reading': 'なぜ', 'meanings': ['why']}
+古細菌 {'reading': 'こさいきん', 'meanings': ['archaea', 'Archaea']}
+受け {'reading': 'うけ', 'meanings': ['popularity', 'defense', 'agreement', 'receiver of technique (e.g. in martial arts)', 'submissive partner of a homosexual relationship']}
+ず {'reading': 'ず', 'meanings': ['drawing', 'sight']}
+海底 {'reading': 'かいてい', 'meanings': ['bottom of the ocean', 'undersea', 'Seabed']}
+閉鎖 {'reading': 'へいさ', 'meanings': ['closing']}
+人々 {'reading': 'ひとびと', 'meanings': ['people', 'each person']}
+先延ばし {'reading': 'さきのばし', 'meanings': ['delay', 'Procrastination']}
+を {'reading': 'を', 'meanings': ['indicates direct object of action', 'indicates subject of causative expression', 'indicates an area traversed', 'indicates time (period) over which action takes place', 'indicates point of departure or separation of action', 'indicates object of desire, like, hate, etc.', 'Wo (kana)']}
+行く {'reading': 'いく', 'meanings': ['to go', 'to proceed', 'to pass through', 'to walk', 'to die', 'to do (in a specific way)', 'to stream', 'to continue', 'to have an orgasm', 'to trip']}
+幕内 {'reading': 'まくうち', 'meanings': ['highest-ranking division', 'Makuuchi']}
+見え {'reading': 'みえ', 'meanings': ['airs']}
+比べれ {'reading': 'くらべる', 'meanings': ['to compare', 'to compete']}
+外部 {'reading': 'がいぶ', 'meanings': ['outside (e.g. of a building)', 'outside (of a group, company, etc.)']}
+可能 {'reading': 'かのう', 'meanings': ['possible']}
+配列 {'reading': 'はいれつ', 'meanings': ['arrangement', 'array (programming)', 'Array data structure']}
+湿地 {'reading': 'しっち', 'meanings': ['damp ground', 'Wetland']}
+続く {'reading': 'つづく', 'meanings': ['to continue', 'to continue (without a break)', 'to occur again and again', 'to lead to', 'to come after', 'to hold out']}
+プリンキピア {'reading': 'プリンキピア', 'meanings': ['Philosophiae Naturalis Principia Mathematica (physical science treatise by Sir Isaac Newton, 1687)']}
+境界 {'reading': 'きょうかい', 'meanings': ['boundary']}
+玄武岩 {'reading': 'げんぶがん', 'meanings': ['basalt', 'Basalt']}
+過 {'reading': 'か', 'meanings': ['surplus-', 'per- (chemical with more of a certain element than found in other compounds of the same constituents)']}
+加速 {'reading': 'かそく', 'meanings': ['acceleration']}
+近かっ {'reading': 'ちかい', 'meanings': ['near', 'close (in time)', 'close (relationship)', 'closely related', 'similar']}
+釣果 {'reading': 'ちょうか', 'meanings': ['catch (fishing)']}
+来 {'reading': 'らい', 'meanings': ['next (year, spring, etc.)', 'since (last month, etc.)']}
+ワイン {'reading': 'ワイン', 'meanings': ['wine', 'Wine']}
+広がっ {'reading': 'ひろがる', 'meanings': ['to spread (out)']}
+捕手 {'reading': 'ほしゅ', 'meanings': ['catcher', 'Catcher']}
+周囲 {'reading': 'しゅうい', 'meanings': ['surroundings', 'circumference']}
+間 {'reading': 'あいだ', 'meanings': ['space (between)', 'period of time (during, while)', 'between (two parties or things)', 'among (a group)', 'relations (between)', 'midpoint', 'due to', 'Ma (negative space)']}
+大きい {'reading': 'おおきい', 'meanings': ['big', 'loud', 'extensive', 'important', 'older']}
+深い {'reading': 'ふかい', 'meanings': ['deep', 'profound', 'dense', 'close (relationship)', 'intense', 'late']}
+よる {'reading': 'よる', 'meanings': ['evening', 'dinner', 'Night']}
+やがて {'reading': 'やがて', 'meanings': ['before long', 'almost', 'finally']}
+約 {'reading': 'やく', 'meanings': ['approximately', 'promise', 'shortening', 'contraction (in phonetics)']}
+新種 {'reading': 'しんしゅ', 'meanings': ['new species']}
+ガー {'reading': 'ガー', 'meanings': ['(but) what about (the) ...']}
+酸素 {'reading': 'さんそ', 'meanings': ['oxygen (O)', 'Oxygen']}
+衝突 {'reading': 'しょうとつ', 'meanings': ['collision', 'conflict', 'Collision']}
+増え {'reading': 'ふえる', 'meanings': ['to increase']}
+管弦 {'reading': 'かんげん', 'meanings': ['wind and string instruments']}
+種 {'reading': 'たね', 'meanings': ['seed (e.g. of a plant)', 'material (e.g. for an article)', 'ingredient', 'cause', 'trick', 'paternal blood', 'breed (of a stock)', '10-point card (in hanafuda)']}
+うち {'reading': 'うち', 'meanings': ['inside', 'while (e.g. one is young)', 'among', 'in (secret, chaos, poverty, etc.)', 'within oneself', 'we', "one's home", 'my spouse', "signed on behalf of (husband's name) by his wife", 'I', 'imperial palace grounds', 'emperor']}
+大きな {'reading': 'おおきな', 'meanings': ['big']}
+充実 {'reading': 'じゅうじつ', 'meanings': ['fullness', 'enhancement', 'replenishment']}
+繰り返さ {'reading': 'くりかえす', 'meanings': ['to repeat']}
+両生 {'reading': 'りょうせい', 'meanings': ['amphibious']}
+石炭 {'reading': 'せきたん', 'meanings': ['coal', 'Coal']}
+数え {'reading': 'かぞえ', 'meanings': ['East Asian age reckoning']}
+経済 {'reading': 'けいざい', 'meanings': ['economy', 'finance', 'being economical', 'Economy']}
+対流 {'reading': 'たいりゅう', 'meanings': ['convection', 'Convection']}
+冷却 {'reading': 'れいきゃく', 'meanings': ['cooling', 'Refrigeration']}
+あらゆる {'reading': 'あらゆる', 'meanings': ['all']}
+地下 {'reading': 'ちか', 'meanings': ['underground', 'world of the dead', 'underground (activities, movement, etc.)', 'Subterranea (geography)']}
+ハイ {'reading': 'ハイ', 'meanings': ['high (e.g. spirits)', 'high', 'high (i.e. feeling of extreme pleasure)', 'Al-Hayy (Iraq)']}
+成長 {'reading': 'せいちょう', 'meanings': ['growth', 'growth (of a company, the economy, etc.)']}
+伴う {'reading': 'ともなう', 'meanings': ['to accompany', 'to be accompanied by']}
+持ち主 {'reading': 'もちぬし', 'meanings': ['owner']}
+寒冷 {'reading': 'かんれい', 'meanings': ['cold']}
+と {'reading': 'と', 'meanings': ['door (esp. Japanese-style)', 'shutter', 'entrance (to a home)', 'narrows', 'To', 'Gate']}
+原始 {'reading': 'げんし', 'meanings': ['origin', 'primeval']}
+共生 {'reading': 'きょうせい', 'meanings': ['coexistence', 'symbiosis', 'paragenesis', 'Symbiosis']}
+待っ {'reading': 'まった', 'meanings': ['false start of a bout', 'backsies (called when taking back a move in a game)', 'wait!']}
+げっ歯 {'reading': 'げっしどうぶつ', 'meanings': ['gnawing animal', 'rodent']}
+次元 {'reading': 'じげん', 'meanings': ['dimension', 'perspective', 'Dimension']}
+役割 {'reading': 'やくわり', 'meanings': ['part', 'Role']}
+館 {'reading': 'かん', 'meanings': ['house']}
+これ {'reading': 'これ', 'meanings': ['this', 'this person', 'now', 'here', 'used to stress the subject of a sentence', 'I']}
+キロメートル {'reading': 'キロメートル', 'meanings': ['kilometer']}
+重要 {'reading': 'じゅうよう', 'meanings': ['important']}
+栄養 {'reading': 'えいよう', 'meanings': ['nutrition', 'Nutrition']}
+猿 {'reading': 'さる', 'meanings': ['monkey (esp. the Japanese macaque, Macaca fuscata)', 'sly person', 'idiot', 'sliding wooden bolt (for holding a door or window shut)', 'clasp used to control the height of a pot-hook', 'bathhouse prostitute', 'Sarh (Chad)', 'Monkey']}
+降り注い {'reading': 'ふりそそぐ', 'meanings': ['to rain incessantly']}
+脊椎 {'reading': 'せきつい', 'meanings': ['spine', 'Vertebral column']}
+タイミング {'reading': 'タイミング', 'meanings': ['timing', 'Timing']}
+発明 {'reading': 'はつめい', 'meanings': ['invention', 'intelligent', 'making sense (of something)', 'Invention']}
+生物 {'reading': 'せいぶつ', 'meanings': ['living thing', 'biology', 'Organism']}
+次々 {'reading': 'つぎつぎ', 'meanings': ['in succession']}
+備え {'reading': 'そなえ', 'meanings': ['preparation']}
+産ん {'reading': 'さん', 'meanings': ['(giving) birth', 'native of', 'assets']}
+激しい {'reading': 'はげしい', 'meanings': ['violent', 'extreme', 'fervent', 'incessant', 'precipitous']}
+つれ {'reading': 'つれ', 'meanings': ['companion', 'tritagonist']}
+貧 {'reading': 'ひん', 'meanings': ['poverty', 'insufficiency']}
+元 {'reading': 'もと', 'meanings': ['origin', 'base', 'cause', 'ingredient', "(somebody's) side", 'original cost (or capital, principal, etc.)', '(plant) root', 'first section of a waka', 'counter for blades of grass, tree trunks, etc., and for falcons (in falconry)', 'handle (chopsticks, brush, etc.)', 'Book']}
+飲み込ま {'reading': 'のみこむ', 'meanings': ['to gulp down', 'to understand', 'to engulf', 'to be filled with (people)', 'to hold back from saying something']}
+記憶 {'reading': 'きおく', 'meanings': ['memory', 'storage', 'Memory']}
+欠点 {'reading': 'けってん', 'meanings': ['fault', 'failure (in an examination)']}
+しれ {'reading': 'しれい', 'meanings': ['orders']}
+リク {'reading': 'レクリエーション', 'meanings': ['recreation', 're-creation']}
+外側 {'reading': 'そとがわ', 'meanings': ['exterior', 'Sotogawa']}
+種類 {'reading': 'しゅるい', 'meanings': ['variety', 'counter for kinds, species, etc.']}
+市 {'reading': 'し', 'meanings': ['city']}
+環境 {'reading': 'かんきょう', 'meanings': ['environment']}
+猛毒 {'reading': 'もうどく', 'meanings': ['deadly poison']}
+襲っ {'reading': 'おそう', 'meanings': ['to attack', 'to succeed (someone in a post, role, etc.)', 'to make a sudden visit']}
+進み {'reading': 'すすみ', 'meanings': ['progress']}
+量 {'reading': 'りょう', 'meanings': ['quantity', 'generosity', 'pramana', 'Quantity']}
+ホーク {'reading': 'フォーク', 'meanings': ['fork', 'forkball']}
+再び {'reading': 'ふたたび', 'meanings': ['again']}
+あ
+ {'reading': 'あ', 'meanings': ['sub-', '-ous (indicating a low oxidation state)', 'Asia', 'Argentina', 'Arabia', 'America']}
+放射 {'reading': 'ほうしゃ', 'meanings': ['radiation', 'Radiation']}
+系統 {'reading': 'けいとう', 'meanings': ['system', 'lineage', 'group (e.g. of colors) (colours)', 'close (evolutionary) relationship', 'a population sharing a common ancestor (in genetics)']}
+覆わ {'reading': 'おおわれ', 'meanings': ['cover (e.g. of snow, trees, etc.)']}
+巨大 {'reading': 'きょだい', 'meanings': ['huge']}
+複製 {'reading': 'ふくせい', 'meanings': ['reproduction']}
+分 {'reading': 'ぶん', 'meanings': ['part', 'amount', "one's means", "one's duty", 'condition', 'in proportion to', 'content (e.g. alcohol)', 'equivalent to (e.g. an old brother)']}
+数十 {'reading': 'すうじゅう', 'meanings': ['dozens']}
+水素 {'reading': 'すいそ', 'meanings': ['hydrogen (H)', 'Hydrogen']}
+双 {'reading': 'そう', 'meanings': ['pair']}
+で {'reading': 'で', 'meanings': ['coming out', 'attending (work)', 'start', 'origins', 'architectural member that projects outward', 'highest point of the stern of a ship', 'amount (comprising something)']}
+視野 {'reading': 'しや', 'meanings': ['field of vision', "one's outlook (e.g. on life)", 'Field of view']}
+超え {'reading': 'こえる', 'meanings': ['to cross over', 'to exceed']}
+まで {'reading': 'まで', 'meanings': ['until (a time)', 'to (a place)', 'to (an extent)', 'only']}
+赤道 {'reading': 'せきどう', 'meanings': ['equator', 'Equator']}
+構築 {'reading': 'こうちく', 'meanings': ['construction']}
+装置 {'reading': 'そうち', 'meanings': ['equipment', 'stage setting']}
+守る {'reading': 'まもる', 'meanings': ['to protect', 'to keep (i.e. a promise)']}
+もともと {'reading': 'もともと', 'meanings': ['originally']}
+招待 {'reading': 'しょうたい', 'meanings': ['invitation']}
+軍 {'reading': 'ぐん', 'meanings': ['army', 'military authorities', 'team']}
+鉱床 {'reading': 'こうしょう', 'meanings': ['mineral deposit', 'Deposition (geology)']}
+率 {'reading': 'りつ', 'meanings': ['rate']}
+夜行 {'reading': 'やこう', 'meanings': ['walking around at night', 'night train']}
+財務 {'reading': 'ざいむ', 'meanings': ['financial affairs']}
+以上 {'reading': 'いじょう', 'meanings': ['not less than', "beyond (e.g. one's expectations)", 'above-mentioned', 'since ...', "that's all"]}
+回 {'reading': 'かい', 'meanings': ['counter for occurrences', 'a time', 'inning (baseball)', 'episode', 'Hui (people)', 'Islam']}
+鉱 {'reading': 'あらがね', 'meanings': ['ore']}
+分岐 {'reading': 'ぶんき', 'meanings': ['divergence', 'Bunki']}
+の {'reading': 'の', 'meanings': ['indicates possessive', 'nominalizes verbs and adjectives', 'substitutes for "ga" in subordinate phrases', '(at sentence-end, falling tone) indicates a confident conclusion', '(at sentence-end) indicates emotional emphasis', '(at sentence-end, rising tone) indicates question', 'No (kana)']}
+互い {'reading': 'たがい', 'meanings': ['each other']}
+対応 {'reading': 'たいおう', 'meanings': ['correspondence (to)', 'suitability', 'dealing with', 'compatibility (with technology, software, etc.)']}
+貢献 {'reading': 'こうけん', 'meanings': ['contribution (furthering a goal or cause)']}
+彼 {'reading': 'かれ', 'meanings': ['he', 'boyfriend']}
+民主 {'reading': 'みんしゅ', 'meanings': ['democracy', 'Democratic Party (esp. DPJ)']}
+比べ {'reading': 'くらべ', 'meanings': ['contest']}
+不足 {'reading': 'ふそく', 'meanings': ['insufficiency', 'dissatisfaction']}
+頻繁 {'reading': 'ひんぱん', 'meanings': ['frequent']}
+生き残る {'reading': 'いきのこる', 'meanings': ['to survive']}
+表 {'reading': 'おもて', 'meanings': ['surface', 'face (i.e. the visible side of an object)', 'front (of a building, etc.)', 'outside', 'appearance', 'public', 'first half (of an inning)', 'cover (for tatami mats, etc.)', 'foreground']}
+遺伝 {'reading': 'いでん', 'meanings': ['heredity', 'Heredity']}
+一掃 {'reading': 'いっそう', 'meanings': ['clean sweep']}
+冠進 {'reading': 'かんむり', 'meanings': ['traditional cap worn by Shinto clergy and courtiers', 'crown', 'top kanji radical', 'first verse of a haikai, etc.', 'best', 'name', 'Crown (headgear)']}
+磁場 {'reading': 'じば', 'meanings': ['magnetic field', 'ambience', 'Magnetic field']}
+しか {'reading': 'しか', 'meanings': ['deer (esp. the sika deer, Cervus nippon)', 'Deer']}
+生成 {'reading': 'せいせい', 'meanings': ['creation']}
+包ま {'reading': 'くるまる', 'meanings': ['to be wrapped up (e.g. in a blanket)']}
+引き起こし {'reading': 'ひきおこす', 'meanings': ['to cause', 'to pull upright']}
+二 {'reading': 'に', 'meanings': ['two']}
+濁 {'reading': 'にごる', 'meanings': ['to become muddy', 'to become dull (of a sound, color, etc.)', 'to become impure (of a heart, society, etc.)', 'to become voiced']}
+ウラン {'reading': 'ウラン', 'meanings': ['uranium (U)', 'Oullins (France)', 'Uranium']}
+詰まっ {'reading': 'つむ', 'meanings': ['to become fine (of fabric)', 'to be checkmated', 'to be hard pressed']}
+インターネット {'reading': 'インターネット', 'meanings': ['Internet', 'Internet']}
+高い {'reading': 'たかい', 'meanings': ['high', 'expensive', 'high (level)', 'loud', 'high-pitched']}
+酵素 {'reading': 'こうそ', 'meanings': ['enzyme', 'Enzyme']}
+およそ {'reading': 'およそ', 'meanings': ['about', 'generally', 'completely', 'outline']}
+北側 {'reading': 'きたがわ', 'meanings': ['north side']}
+エリア {'reading': 'エリア', 'meanings': ['area', 'Elijah']}
+陸地 {'reading': 'りくち', 'meanings': ['land']}
+促す {'reading': 'うながす', 'meanings': ['to urge', 'to stimulate (e.g. growth)']}
+酸化 {'reading': 'さんか', 'meanings': ['oxidation']}
+弱まっ {'reading': 'よわまる', 'meanings': ['to abate']}
+秩序 {'reading': 'ちつじょ', 'meanings': ['order']}
+のみ {'reading': 'のみ', 'meanings': ['only']}
+部 {'reading': 'ぶ', 'meanings': ['department (in an organization)', 'club', 'part', 'category', 'counter for copies of a newspaper or magazine']}
+紀 {'reading': 'き', 'meanings': ['period', 'Nihon-shoki', 'System (stratigraphy)']}
+下位 {'reading': 'かい', 'meanings': ['low rank']}
+たち {'reading': 'たち', 'meanings': ['pluralizing suffix (esp. for people and animals; formerly honorific)']}
+受ける {'reading': 'うける', 'meanings': ['to receive', 'to catch (e.g. a ball)', 'to be struck by (wind, waves, sunlight, etc.)', 'to sustain (damage)', 'to undergo (e.g. surgery)', 'to be given (e.g. life, talent)', 'to find funny', 'to follow', 'to face (south, etc.)', 'to be modified by', 'to obtain (a pawned item, etc.) by paying a fee', 'to be well-received']}
+反応 {'reading': 'はんのう', 'meanings': ['reaction', 'Reaction']}
+日惑星 {'reading': 'にち', 'meanings': ['Sunday', 'day (of the month)', 'counter for days', 'Japan', 'Nichi']}
+取り返し {'reading': 'とりかえし', 'meanings': ['recovery']}
+代 {'reading': 'よ', 'meanings': ['world', 'life', 'age', 'reign', 'the times', 'world (of existence)', 'Series (stratigraphy)']}
+集まっ {'reading': 'あつまる', 'meanings': ['to gather']}
+っ {'reading': 'って', 'meanings': ['you said', 'if ... then', 'do you seriously think that', 'I already told you', 'the said ...', 'says that ...', 'I hear that ...', 'as for the term ...', 'as for ...', 'Te (kana)']}
+ガス {'reading': 'ガス', 'meanings': ['gas (state of matter, e.g. poison gas, natural gas)', 'gasoline', 'dense fog', 'gas stove', 'flatulence']}
+伝え {'reading': 'つたえ', 'meanings': ['legend']}
+組み合わせ {'reading': 'くみあわせ', 'meanings': ['combination', 'matching (in a contest)', 'combination']}
+分断 {'reading': 'ぶんだん', 'meanings': ['dividing into parts']}
+水中 {'reading': 'すいちゅう', 'meanings': ['underwater']}
+双極子 {'reading': 'そうきょくし', 'meanings': ['dipole', 'Dipole']}
+蓄え {'reading': 'たくわえ', 'meanings': ['store']}
+密度 {'reading': 'みつど', 'meanings': ['density', 'Density']}
+埋没 {'reading': 'まいぼつ', 'meanings': ['being buried', 'remaining unknown', 'being absorbed (e.g. in research)']}
+コンドリア {'reading': 'コン', 'meanings': ['Gong', 'Kon']}
+第 {'reading': 'だい', 'meanings': ['prefix for forming ordinal numbers']}
+分け {'reading': 'わけ', 'meanings': ['sharing', 'draw']}
+始まっ {'reading': 'はじまる', 'meanings': ['to begin', 'to happen (again)', 'to date (from)']}
+変化 {'reading': 'へんか', 'meanings': ['change', 'variety', 'inflection', 'sidestepping']}
+先 {'reading': 'さき', 'meanings': ['point', 'head (of a line)', 'first', '(the way) ahead', 'future', 'previous', 'destination', 'rest (e.g. of a story)', 'the other party']}
+向かう {'reading': 'むかう', 'meanings': ['to face', 'to go towards']}
+生き残っ {'reading': 'いきのこる', 'meanings': ['to survive']}
+混じり合う {'reading': 'まじりあう', 'meanings': ['to be mixed together']}
+それ {'reading': 'それ', 'meanings': ['that', 'then', 'there', 'you']}
+ユカタン {'reading': 'ユカタンかいきょう', 'meanings': ['Yucatan Channel', 'Yucatán Channel']}
+それぞれ {'reading': 'それぞれ', 'meanings': ['each']}
+医学 {'reading': 'いがく', 'meanings': ['medical science', 'Medicine']}
+作り {'reading': 'つくり', 'meanings': ['making', 'appearance (attire, make-up, etc.)', 'build', 'sashimi', 'forced (smile, etc.)']}
+到来 {'reading': 'とうらい', 'meanings': ['arrival']}
+微 {'reading': 'び', 'meanings': ['minuteness', 'one millionth']}
+分かれ {'reading': 'わかれ', 'meanings': ['offshoot']}
+助け {'reading': 'たすけ', 'meanings': ['assistance']}
+南米 {'reading': 'なんべい', 'meanings': ['South America', 'Nanbei']}
+人 {'reading': 'ひと', 'meanings': ['man', 'human being', 'human (Homo sapiens)', 'character', 'man of talent', 'another person', 'adult']}
+東 {'reading': 'ひがし', 'meanings': ['east']}
+生体 {'reading': 'せいたい', 'meanings': ['organism']}
+こそ {'reading': 'こそ', 'meanings': ['it is ... that ...', 'although', 'it is precisely because ... that ...', 'not at all']}
+取り込ま {'reading': 'とりこむ', 'meanings': ['to take in', 'to capture (e.g. image)', 'to win over', 'to defraud of', 'to be busy']}
+結果 {'reading': 'けっか', 'meanings': ['result', 'coming to fruition', 'as a result', 'Corollary']}
+作っ {'reading': 'つくる', 'meanings': ['to make', 'to prepare (food)', 'to raise', 'to till', 'to draw up (a document)', 'to create (an artistic work, etc.)', 'to coin (a phrase)', 'to have (a child)', "to make up (one's face, etc.)", 'to fabricate (an excuse, etc.)', 'to give a (false) appearance', 'to form (a line, etc.)', 'to set (a record)', 'to commit (a sin, etc.)']}
+新刊 {'reading': 'しんかん', 'meanings': ['new book']}
+リード {'reading': 'リード', 'meanings': ['lead', 'lead (of a newspaper, etc.)', 'lead (wire)', 'lead (e.g. dog)', '(sales) lead', 'reed (of a musical instrument)', 'lied', 'read', 'Lead']}
+生命 {'reading': 'せいめい', 'meanings': ['life', "(one's) working life", 'life force', 'Life']}
+車 {'reading': 'くるま', 'meanings': ['car', 'wheel']}
+畳 {'reading': 'たたみ', 'meanings': ['tatami mat']}
+夜 {'reading': 'よる', 'meanings': ['evening', 'dinner', 'Night']}
+入っ {'reading': 'はいる', 'meanings': ['to enter', 'to break into', 'to join', 'to contain', 'to have (an income of)', 'to get turned on', 'to get']}
+生み {'reading': 'うみ', 'meanings': ['birth', 'creating']}
+分裂 {'reading': 'ぶんれつ', 'meanings': ['split', 'Fission (biology)']}
+破壊 {'reading': 'はかい', 'meanings': ['destruction', '(application) crash', 'Subversion']}
+活動 {'reading': 'かつどう', 'meanings': ['activity (of a person, organization, animal, volcano, etc.)', 'movie (esp. during the silent movie period)']}
+汽 {'reading': 'きしゃ', 'meanings': ['train (esp. long distance train)', 'steam train']}
+バレー {'reading': 'バレー', 'meanings': ['volleyball', 'valley', 'ballet', 'barré (chord in guitar technique)']}
+横滑り {'reading': 'よこすべり', 'meanings': ['sideslip', 'shifting to another post (at the same level)', 'sliding sideways down a slope (skiing)']}
+巻く {'reading': 'まく', 'meanings': ['to wind', 'to envelope', 'to outflank', 'to link (verse)', 'to move ahead (three hours, etc.)']}
+迫っ {'reading': 'せまる', 'meanings': ['to approach', 'to press (someone for something)']}
+下 {'reading': 'した', 'meanings': ['below', 'bottom', 'beneath', 'just after', 'inferiority', 'trade-in', 'preliminary']}
+集合 {'reading': 'しゅうごう', 'meanings': ['meeting up', 'set', 'Set (mathematics)']}
+生まれる {'reading': 'うまれる', 'meanings': ['to be born']}
+川 {'reading': 'かわ', 'meanings': ['river', 'River', 'Gawa', 'River']}
+読ん {'reading': 'よんでじのごとく', 'meanings': ['literally']}
+終わっ {'reading': 'おわる', 'meanings': ['to end']}
+鉱物 {'reading': 'こうぶつ', 'meanings': ['mineral', 'Mineral']}
+閉じ込め {'reading': 'とじこめる', 'meanings': ['to lock up']}
+中 {'reading': 'ちゅう', 'meanings': ['medium', 'moderation', 'middle school', 'China', 'volume two (of three)', 'during (a certain time when one did or is doing something)', 'in']}
+行っ {'reading': 'いってらっしゃい', 'meanings': ['have a good day']}
+上 {'reading': 'うえ', 'meanings': ['above', 'top', 'surface', 'before', 'superiority', 'on top of that', 'upon (further inspection, etc.)', 'matters concerning ...', 'since (i.e. "for that reason")', 'honorable', "place of one's superior (e.g. the throne)", 'emperor', 'noblewoman (esp. the wife of a nobleman)']}
+固まっ {'reading': 'かたまる', 'meanings': ['to harden', 'to become firm', 'to gather (together)']}
+必然 {'reading': 'ひつぜん', 'meanings': ['inevitable', 'inevitability']}
+リーダー {'reading': 'リーダー', 'meanings': ['leader', 'reader', 'reader (i.e. someone who reads)', 'microreader', 'dotted line (in printing)']}
+会場 {'reading': 'かいじょう', 'meanings': ['assembly hall']}
+強 {'reading': 'きょう', 'meanings': ['a little over', 'powerhouse']}
+酸性 {'reading': 'さんせい', 'meanings': ['acidity', 'acidic']}
+旧 {'reading': 'きゅう', 'meanings': ['old', 'the old', 'old times', "Japan's old (lunisolar) calendar"]}
+促し {'reading': 'うながす', 'meanings': ['to urge', 'to stimulate (e.g. growth)']}
+だろう {'reading': 'だろう', 'meanings': ['seems', "don't you agree?"]}
+働き {'reading': 'はたらき', 'meanings': ['work', 'achievement', 'salary', 'action', 'conjugation']}
+代表 {'reading': 'だいひょう', 'meanings': ['representative', 'switchboard number']}
+爬虫 {'reading': 'はちゅう', 'meanings': ['reptile']}
+緩和 {'reading': 'かんわ', 'meanings': ['relief']}
+上部 {'reading': 'じょうぶ', 'meanings': ['top part']}
+崩落 {'reading': 'ほうらく', 'meanings': ['collapse']}
+植物 {'reading': 'しょくぶつ', 'meanings': ['plant', 'Plant']}
+もたらし {'reading': 'もたらす', 'meanings': ['to bring']}
+矯正 {'reading': 'きょうせい', 'meanings': ['correction (of fault, defect, flaw, etc.)', 'Corrections']}
+電子 {'reading': 'でんし', 'meanings': ['electron', 'electronic', 'Electron']}
+氷河 {'reading': 'ひょうが', 'meanings': ['glacier', 'Glacier']}
+変遷 {'reading': 'へんせん', 'meanings': ['change']}
+一斉 {'reading': 'いっせい', 'meanings': ['simultaneous']}
+だっ {'reading': 'だっせん', 'meanings': ['derailment', 'digression']}
+重力 {'reading': 'じゅうりょく', 'meanings': ['gravity', 'Gravitation']}
+試練 {'reading': 'しれん', 'meanings': ['test']}
+化石 {'reading': 'かせき', 'meanings': ['fossil', 'petrifaction', 'Fossil']}
+明治 {'reading': 'めいじ', 'meanings': ['Meiji era (1868.9.8-1912.7.30)', 'Meiji period']}
+外国 {'reading': 'がいこく', 'meanings': ['foreign country']}
+引き起こす {'reading': 'ひきおこす', 'meanings': ['to cause', 'to pull upright']}
+奪わ {'reading': 'うばう', 'meanings': ['to snatch away']}
+影響 {'reading': 'えいきょう', 'meanings': ['influence', 'to influence']}
+三 {'reading': 'さん', 'meanings': ['three', 'tri-']}
+価 {'reading': 'あたい', 'meanings': ['price', 'value', 'value', 'Value']}
+年 {'reading': 'とし', 'meanings': ['year', 'age', "past one's prime", 'Year']}
+空前 {'reading': 'くうぜん', 'meanings': ['unprecedented']}
+方 {'reading': 'ほう', 'meanings': ['direction', 'side (of an argument, etc.)', 'type', 'field (of study, etc.)', 'indicates one side of a comparison', 'way', 'length (of each side of a square)']}
+下がり {'reading': 'さがり', 'meanings': ['fall', 'string apron', 'food offering to the gods', "leaving (one's master's place for home)", 'a little after ...']}
+つくっ {'reading': 'つく', 'meanings': ['to arrive at', 'to sit on']}
+広げる {'reading': 'ひろげる', 'meanings': ['to spread', 'to unfold', 'to scatter about', 'to make flourish']}
+られる {'reading': 'れる', 'meanings': ['indicates passive voice (incl. the "suffering passive")', 'indicates the potential form', 'indicates spontaneous occurrence', "used as an honorific for others' actions"]}
+落ち込ん {'reading': 'おちこむ', 'meanings': ['to feel down', 'to be in a slump (business, economy, etc.)', 'to fall into (e.g. a hole)']}
+アトラス {'reading': 'アトラス', 'meanings': ['Atlas', 'atlas']}
+消失 {'reading': 'しょうしつ', 'meanings': ['disappearance']}
+色 {'reading': 'いろ', 'meanings': ['colour', 'complexion', "look (on one's face)", 'appearance', 'personality', "tone (of one's voice, etc.)", 'love', 'lover', 'beauty', 'kind', 'Color']}
+スラブ {'reading': 'スラブ', 'meanings': ['Slav', 'slab', 'Slab']}
+群 {'reading': 'ぐん', 'meanings': ['group', 'group']}
+程度 {'reading': 'ていど', 'meanings': ['degree']}
+適度 {'reading': 'てきど', 'meanings': ['moderate (degree)']}
+歩 {'reading': 'あゆみ', 'meanings': ['walking', 'pace', "course (of history, one's life, etc.)", 'pitch (of a screw, etc.)']}
+乾漆 {'reading': 'かんしつ', 'meanings': ['dried lacquer', 'dry lacquer (technique)']}
+起こす {'reading': 'おこす', 'meanings': ['to raise', 'to wake', 'to cause', 'to start', 'to plough', 'to fall ill with', 'to transcribe', 'to turn over (a card)']}
+低下 {'reading': 'ていか', 'meanings': ['fall']}
+平等 {'reading': 'びょうどう', 'meanings': ['equality', 'Byoudou', 'Equality']}
+深く {'reading': 'ふかく', 'meanings': ['deeply']}
+持つ {'reading': 'もつ', 'meanings': ["to hold (in one's hand)", 'to possess', 'to maintain', 'to last', 'to take charge of', 'to hold (meeting, etc.)']}
+太陽 {'reading': 'たいよう', 'meanings': ['sun', 'Sun']}
+差し込む {'reading': 'さしこむ', 'meanings': ['to insert', 'to have a griping pain', 'to flow in']}
+とっ {'reading': 'とっ', 'meanings': ['very']}
+メートル {'reading': 'メートル', 'meanings': ['metre', 'meter', 'Rice']}
+人権 {'reading': 'じんけん', 'meanings': ['human rights', 'Human rights']}
+異例 {'reading': 'いれい', 'meanings': ['exceptional']}
+不 {'reading': 'ふ', 'meanings': ['un-']}
+物資 {'reading': 'ぶっし', 'meanings': ['goods']}
+なっ {'reading': 'なっとく', 'meanings': ['consent', 'understanding']}
+先祖 {'reading': 'せんぞ', 'meanings': ['ancestor', 'Ancestor']}
+強い {'reading': 'つよい', 'meanings': ['strong', 'strong', 'good (at)', 'being able to handle', 'firm', 'intense', 'dependable']}
+遂げる {'reading': 'とげる', 'meanings': ['to accomplish', 'to arrive at (a certain outcome)']}
+やりとり {'reading': 'やりとり', 'meanings': ['giving and taking']}
+れる {'reading': 'れる', 'meanings': ['indicates passive voice (incl. the "suffering passive")', 'indicates the potential form', 'indicates spontaneous occurrence', "used as an honorific for others' actions"]}
+上層 {'reading': 'じょうそう', 'meanings': ['upper stratum (classes, stories, storeys)']}
+燃料 {'reading': 'ねんりょう', 'meanings': ['fuel', 'Fuel']}
+自ら {'reading': 'みずから', 'meanings': ['oneself', 'oneself']}
+生む {'reading': 'うむ', 'meanings': ['to give birth', 'to produce']}
+船 {'reading': 'ふね', 'meanings': ['ship', 'tank', 'counter for boat-shaped containers (e.g. of sashimi)', 'Ship']}
+訪れ {'reading': 'おとずれ', 'meanings': ['visit', 'arrival (e.g. of spring)', 'news']}
+原因 {'reading': 'げんいん', 'meanings': ['cause']}
+入れ替わる {'reading': 'いれかわる', 'meanings': ['to change places']}
+絵 {'reading': 'え', 'meanings': ['picture', 'image (TV, film, etc.)']}
+安定 {'reading': 'あんてい', 'meanings': ['stability', 'Stability']}
+塊 {'reading': 'かたまり', 'meanings': ['lump', 'group', 'embodiment (of an idea, quality, feeling etc.)']}
+竜騎 {'reading': 'りゅうきへい', 'meanings': ['dragoon', 'Dragoon']}
+エントロピー {'reading': 'エントロピー', 'meanings': ['entropy', 'entropy (information theory)', 'Entropy']}
+使っ {'reading': 'つかってあらわす', 'meanings': ['to express ... in terms of ...']}
+非常 {'reading': 'ひじょう', 'meanings': ['emergency', 'extraordinary']}
+君臨 {'reading': 'くんりん', 'meanings': ['reigning']}
+各 {'reading': 'かく', 'meanings': ['each']}
+きっかけ {'reading': 'きっかけ', 'meanings': ['chance', 'Kikkake']}
+眼鏡 {'reading': 'めがね', 'meanings': ['glasses', 'judgment', 'Megane', 'Glasses']}
+物質 {'reading': 'ぶっしつ', 'meanings': ['material', 'matter', 'Matter']}
+岩塩 {'reading': 'がんえん', 'meanings': ['halite', 'Halite']}
+海水 {'reading': 'かいすい', 'meanings': ['seawater', 'Seawater']}
+汚染 {'reading': 'おせん', 'meanings': ['pollution']}
+玄武 {'reading': 'げんぶ', 'meanings': ['Black Tortoise (god said to rule over the northern heavens)', 'seven mansions (Chinese constellations) of the northern heavens', 'Black Tortoise']}
+革新 {'reading': 'かくしん', 'meanings': ['reform', 'Reform']}
+菊 {'reading': 'きく', 'meanings': ['chrysanthemum (Chrysanthemum morifolium)']}
+過ぎ {'reading': 'すぎ', 'meanings': ['past', 'too (much)']}
+水分 {'reading': 'すいぶん', 'meanings': ['water', 'Moisture']}
+強大 {'reading': 'きょうだい', 'meanings': ['mighty']}
+共通 {'reading': 'きょうつう', 'meanings': ['common', 'to be common (to)', '-wide']}
+ロボット {'reading': 'ロボット', 'meanings': ['robot', '(mere) puppet', 'Robot']}
+連合 {'reading': 'れんごう', 'meanings': ['union', 'RENGO (Japanese Trade Union Confederation)', 'Rengou']}
